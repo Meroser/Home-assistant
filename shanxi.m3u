@@ -1,13 +1,13 @@
-#EXTM3U x-tvg-url="https://raw.fgit.cf/Meroser/mgtv/main/mgtv.xml"
-#EXTINF:-1 tvg-id="sx01" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="山西",山西卫视
+#EXTM3U x-tvg-url="https://raw.fgit.cf/Meroser/IPTV-DF/main/shanxi.xml"
+#EXTINF:-1 tvg-id="shanxi" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi.png" group-title="山西",山西卫视
 https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i1sh8sV.m3u8
-#EXTINF:-1 tvg-id="sx02" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi1.png" group-title="山西",黄河电视台
+#EXTINF:-1 tvg-id="shanxi1" tvg-name="黄河电视台" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi1.png" group-title="山西",黄河电视台
 https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/h1thcss.m3u8
-#EXTINF:-1 tvg-id="sx03" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi2.png" group-title="山西",山西经济与科技
+#EXTINF:-1 tvg-id="shanxi2" tvg-name="山西经济与科技" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi2.png" group-title="山西",山西经济与科技
 https://livehhhttps.sxrtv.com/lsdream/4j01KWX/800/961djs0.m3u8
-#EXTINF:-1 tvg-id="sx04" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi3.png" group-title="山西",山西影视
+#EXTINF:-1 tvg-id="shanxi3" tvg-name="山西影视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi3.png" group-title="山西",山西影视
 https://livehhhttps.sxrtv.com/lsdream/Md571Kv/800/s5idls7.m3u8
-#EXTINF:-1 tvg-id="sx05" tvg-name="山西社会与法制" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi4.png" group-title="山西",山西社会与法制
+#EXTINF:-1 tvg-id="shanxi4" tvg-name="山西社会与法治" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi4.png" group-title="山西",山西社会与法治
 https://livehhhttps.sxrtv.com/lsdream/p4y5do9/500/xdi4s5l.m3u8
-#EXTINF:-1 tvg-id="sx06" tvg-name="山西卫视" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="山西",山西文体生活
-https://livehhhttps.sxrtv.com/lsdream/agmpyEk/1000/eojgspl.m3u8
+#EXTINF:-1 tvg-id="shanxi5" tvg-name="山西文体生活" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV-DF@main/logo/Shanxi5.png" group-title="山西",山西文体生活
+https://livehhhttps.sxrtv.com/lsdream/Y00Xezi/800/139g0sX.m3u8
