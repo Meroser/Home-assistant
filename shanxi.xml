@@ -158,10 +158,17 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204054500 +0800" stop="20240204061400 +0800" channel="shanxi">
+  <programme start="20240204054500 +0800" stop="20240204060500 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240204060500 +0800" stop="20240204061400 +0800" channel="shanxi">
+    <title lang="zh">人说山西好味道</title>
+    <desc lang="zh">因为一道菜，爱上一座城。《人说山西好味道》打造专属山西人的美食地图，助力山西餐饮业高质量发展，同时大力推广山西特优农产品，展示山西美好形象，敬请收看。</desc>
+    <date>2022-07-09</date>
+    <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
   <programme start="20240204061400 +0800" stop="20240204070000 +0800" channel="shanxi">
@@ -285,7 +292,7 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204132100 +0800" stop="20240204135600 +0800" channel="shanxi">
+  <programme start="20240204132100 +0800" stop="20240204135500 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新包青天1</title>
     <desc lang="zh">《新包青天》是根据古典名著《三侠五义》改编的古装电视剧，由金超群、何家劲、范鸿轩等主演。共五个单元故事61集，分别为：《打龙袍》01-12、《白龙驹》13-24、《黄金梦》25-37、《铡美案》38-48、《通判劫》49-61。讲述了宋朝清官包拯断案的故事。</desc>
     <credits>
@@ -305,13 +312,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204135600 +0800" stop="20240204141900 +0800" channel="shanxi">
+  <programme start="20240204135500 +0800" stop="20240204141800 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204141900 +0800" stop="20240204145500 +0800" channel="shanxi">
+  <programme start="20240204141800 +0800" stop="20240204145200 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新包青天2</title>
     <desc lang="zh">《新包青天》是根据古典名著《三侠五义》改编的古装电视剧，由金超群、何家劲、范鸿轩等主演。共五个单元故事61集，分别为：《打龙袍》01-12、《白龙驹》13-24、《黄金梦》25-37、《铡美案》38-48、《通判劫》49-61。讲述了宋朝清官包拯断案的故事。</desc>
     <credits>
@@ -331,13 +338,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204145500 +0800" stop="20240204151700 +0800" channel="shanxi">
+  <programme start="20240204145200 +0800" stop="20240204151400 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204151700 +0800" stop="20240204155200 +0800" channel="shanxi">
+  <programme start="20240204151400 +0800" stop="20240204154800 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新包青天3</title>
     <desc lang="zh">《新包青天》是根据古典名著《三侠五义》改编的古装电视剧，由金超群、何家劲、范鸿轩等主演。共五个单元故事61集，分别为：《打龙袍》01-12、《白龙驹》13-24、《黄金梦》25-37、《铡美案》38-48、《通判劫》49-61。讲述了宋朝清官包拯断案的故事。</desc>
     <credits>
@@ -357,13 +364,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204155200 +0800" stop="20240204161300 +0800" channel="shanxi">
+  <programme start="20240204154800 +0800" stop="20240204161100 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204161300 +0800" stop="20240204164900 +0800" channel="shanxi">
+  <programme start="20240204161100 +0800" stop="20240204164500 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新包青天4</title>
     <desc lang="zh">《新包青天》是根据古典名著《三侠五义》改编的古装电视剧，由金超群、何家劲、范鸿轩等主演。共五个单元故事61集，分别为：《打龙袍》01-12、《白龙驹》13-24、《黄金梦》25-37、《铡美案》38-48、《通判劫》49-61。讲述了宋朝清官包拯断案的故事。</desc>
     <credits>
@@ -383,13 +390,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204164900 +0800" stop="20240204172400 +0800" channel="shanxi">
+  <programme start="20240204164500 +0800" stop="20240204173200 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204172400 +0800" stop="20240204180000 +0800" channel="shanxi">
+  <programme start="20240204173200 +0800" stop="20240204180800 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新包青天5</title>
     <desc lang="zh">《新包青天》是根据古典名著《三侠五义》改编的古装电视剧，由金超群、何家劲、范鸿轩等主演。共五个单元故事61集，分别为：《打龙袍》01-12、《白龙驹》13-24、《黄金梦》25-37、《铡美案》38-48、《通判劫》49-61。讲述了宋朝清官包拯断案的故事。</desc>
     <credits>
@@ -409,9 +416,9 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204180000 +0800" stop="20240204183000 +0800" channel="shanxi">
-    <title lang="zh">专家来了</title>
-    <desc lang="zh">名医汇聚演播室，为您的健康人生保驾护航！</desc>
+  <programme start="20240204180800 +0800" stop="20240204183000 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
@@ -945,23 +952,8 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240204234500 +0800" stop="20240205000000 +0800" channel="shanxi2">
+  <programme start="20240204234500 +0800" stop="20240205053000 +0800" channel="shanxi2">
     <title lang="zh">生命缘</title>
-  </programme>
-  <programme start="20240205000000 +0800" stop="20240205002000 +0800" channel="shanxi2">
-    <title lang="zh">全方位推动高质量发展透视</title>
-    <desc lang="zh">全方位推动高质量发展要以“全方位推动”为横向维度，以“高质量发展”为纵向标尺，形成经济、政治、文化、社会、生态文明建设、党的建设等“六个领域”和适应、反映、引领高质量发展的目标和标准、任务和举措、政策和制度等“三个体系”全面贯通、深度协同的工作矩阵。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240205002000 +0800" stop="20240205003500 +0800" channel="shanxi2">
-    <title lang="zh">经济30分之看天下</title>
-  </programme>
-  <programme start="20240205003500 +0800" stop="20240205053000 +0800" channel="shanxi2">
-    <title lang="zh">经济30分</title>
-    <desc lang="zh">经济30分。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
   </programme>
   <programme start="20240204003500 +0800" stop="20240204020000 +0800" channel="shanxi3">
     <title lang="zh">宜昌保卫战27</title>
@@ -1862,71 +1854,22 @@
   <programme start="20240204192000 +0800" stop="20240204220000 +0800" channel="shanxi5">
     <title lang="zh">篮球风云季</title>
   </programme>
-  <programme start="20240204220000 +0800" stop="20240205002000 +0800" channel="shanxi5">
+  <programme start="20240204220000 +0800" stop="20240205000500 +0800" channel="shanxi5">
     <title lang="zh">王牌高手</title>
     <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
     <category lang="zh">体育</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240205002000 +0800" stop="20240205010500 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
-    <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
-    </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
+  <programme start="20240205000500 +0800" stop="20240205013500 +0800" channel="shanxi5">
+    <title lang="zh">歌从黄河来</title>
+    <desc lang="zh">是山西卫视一档音乐秀节目，歌声跨越近30年的历届中央电视台春节联欢晚会，六路选手各显神通，争夺情歌王。选手不仅来自不同的民族、国度，而且还来自各行各业。</desc>
+    <category lang="zh">娱乐</category>
+    <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240205010500 +0800" stop="20240205015000 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
-    <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
-    </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
-  </programme>
-  <programme start="20240205015000 +0800" stop="20240205022500 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
-    <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
-    </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
-  </programme>
-  <programme start="20240205022500 +0800" stop="20240205030500 +0800" channel="shanxi5">
-    <title lang="zh">深夜剧场</title>
-    <desc lang="zh">保罗是一名恐怖漫画家，他在整理酒保接手的老台球室时，捡到几枚拼图，当他把拼图拼成一个金字塔时，将金字塔中的恶灵释放出来，他的噩梦开始了。</desc>
-    <date>1991-11-10</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">意大利</country>
+  <programme start="20240205013500 +0800" stop="20240205033700 +0800" channel="shanxi5">
+    <title lang="zh">王牌高手</title>
+    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
+    <category lang="zh">体育</category>
+    <country lang="zh">中国大陆</country>
   </programme>
 </tv>
