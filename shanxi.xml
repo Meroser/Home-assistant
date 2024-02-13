@@ -18,13 +18,13 @@
 <channel id="shanxi5">
 <display-name lang="zh">山西文体生活</display-name>
 </channel>
-  <programme start="20240213002500 +0800" stop="20240213004500 +0800" channel="shanxi">
+  <programme start="20240213003300 +0800" stop="20240213005400 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213004500 +0800" stop="20240213013000 +0800" channel="shanxi">
+  <programme start="20240213005400 +0800" stop="20240213013200 +0800" channel="shanxi">
     <title lang="zh">黎明剧场:情满四合院32</title>
     <desc lang="zh">四合院里住着热心的“傻柱”、讲孝道，带着一儿两女的单亲妈妈秦淮茹、自私自利的钢厂放映员许大茂，还有三位受人尊敬的老工人，人称“三位大爷”；傻柱看似不着调，却心地善良，傻柱在与邻里之间的相处中逐渐成熟起来，有了男人的责任与担当。在改革开放的春风下，傻柱开办饭店，并把四合院改建成养老院，和所有的“邻里家人”幸福和睦地生活在一起。</desc>
     <credits>
@@ -48,7 +48,7 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213013000 +0800" stop="20240213021500 +0800" channel="shanxi">
+  <programme start="20240213013200 +0800" stop="20240213020900 +0800" channel="shanxi">
     <title lang="zh">黎明剧场:情满四合院33</title>
     <desc lang="zh">四合院里住着热心的“傻柱”、讲孝道，带着一儿两女的单亲妈妈秦淮茹、自私自利的钢厂放映员许大茂，还有三位受人尊敬的老工人，人称“三位大爷”；傻柱看似不着调，却心地善良，傻柱在与邻里之间的相处中逐渐成熟起来，有了男人的责任与担当。在改革开放的春风下，傻柱开办饭店，并把四合院改建成养老院，和所有的“邻里家人”幸福和睦地生活在一起。</desc>
     <credits>
@@ -72,7 +72,7 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213021500 +0800" stop="20240213030000 +0800" channel="shanxi">
+  <programme start="20240213020900 +0800" stop="20240213024600 +0800" channel="shanxi">
     <title lang="zh">黎明剧场:情满四合院34</title>
     <desc lang="zh">四合院里住着热心的“傻柱”、讲孝道，带着一儿两女的单亲妈妈秦淮茹、自私自利的钢厂放映员许大茂，还有三位受人尊敬的老工人，人称“三位大爷”；傻柱看似不着调，却心地善良，傻柱在与邻里之间的相处中逐渐成熟起来，有了男人的责任与担当。在改革开放的春风下，傻柱开办饭店，并把四合院改建成养老院，和所有的“邻里家人”幸福和睦地生活在一起。</desc>
     <credits>
@@ -96,7 +96,7 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213030000 +0800" stop="20240213033000 +0800" channel="shanxi">
+  <programme start="20240213024600 +0800" stop="20240213032300 +0800" channel="shanxi">
     <title lang="zh">黎明剧场:情满四合院35</title>
     <desc lang="zh">四合院里住着热心的“傻柱”、讲孝道，带着一儿两女的单亲妈妈秦淮茹、自私自利的钢厂放映员许大茂，还有三位受人尊敬的老工人，人称“三位大爷”；傻柱看似不着调，却心地善良，傻柱在与邻里之间的相处中逐渐成熟起来，有了男人的责任与担当。在改革开放的春风下，傻柱开办饭店，并把四合院改建成养老院，和所有的“邻里家人”幸福和睦地生活在一起。</desc>
     <credits>
@@ -120,7 +120,7 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213033000 +0800" stop="20240213040000 +0800" channel="shanxi">
+  <programme start="20240213032300 +0800" stop="20240213040000 +0800" channel="shanxi">
     <title lang="zh">黎明剧场:情满四合院36</title>
     <desc lang="zh">四合院里住着热心的“傻柱”、讲孝道，带着一儿两女的单亲妈妈秦淮茹、自私自利的钢厂放映员许大茂，还有三位受人尊敬的老工人，人称“三位大爷”；傻柱看似不着调，却心地善良，傻柱在与邻里之间的相处中逐渐成熟起来，有了男人的责任与担当。在改革开放的春风下，傻柱开办饭店，并把四合院改建成养老院，和所有的“邻里家人”幸福和睦地生活在一起。</desc>
     <credits>
@@ -208,13 +208,14 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213060500 +0800" stop="20240213061700 +0800" channel="shanxi">
-    <title lang="zh">世界面食大会</title>
-    <desc lang="zh">《世界面食大会》是国内首档以面食技艺展示为内容、以面食文化传播为宗旨的大型电视节目。以面食为出发点，创新挖掘山西各地美食资源，以电视美食竞演的方式力邀世界知名面食品牌展开巅峰对决。</desc>
-    <category lang="zh">综艺</category>
+  <programme start="20240213060500 +0800" stop="20240213061900 +0800" channel="shanxi">
+    <title lang="zh">人说山西好味道</title>
+    <desc lang="zh">因为一道菜，爱上一座城。《人说山西好味道》打造专属山西人的美食地图，助力山西餐饮业高质量发展，同时大力推广山西特优农产品，展示山西美好形象，敬请收看。</desc>
+    <date>2022-07-09</date>
+    <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213061700 +0800" stop="20240213064800 +0800" channel="shanxi">
+  <programme start="20240213061900 +0800" stop="20240213064800 +0800" channel="shanxi">
     <title lang="zh">纪录片:百年巨匠</title>
     <desc lang="zh">百年巨匠是由央视、中央新影、银谷艺术馆联合摄制的大型人物传记纪录片。呈现了齐白石，徐悲鸿，黄宾虹，张大千等绘画巨匠的传奇人生和非凡艺术历程。</desc>
     <credits>
@@ -242,32 +243,25 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213072300 +0800" stop="20240213072600 +0800" channel="shanxi">
+  <programme start="20240213072300 +0800" stop="20240213072500 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213072600 +0800" stop="20240213074600 +0800" channel="shanxi">
+  <programme start="20240213072500 +0800" stop="20240213073600 +0800" channel="shanxi">
     <title lang="zh">世界面食大会</title>
     <desc lang="zh">《世界面食大会》是国内首档以面食技艺展示为内容、以面食文化传播为宗旨的大型电视节目。以面食为出发点，创新挖掘山西各地美食资源，以电视美食竞演的方式力邀世界知名面食品牌展开巅峰对决。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213074600 +0800" stop="20240213081900 +0800" channel="shanxi">
+  <programme start="20240213073600 +0800" stop="20240213080600 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213081900 +0800" stop="20240213084800 +0800" channel="shanxi">
-    <title lang="zh">动画片:小凉帽之山海奇境</title>
-    <desc lang="zh">在山海奇境的故事中，阿凉通过祠堂的神秘画卷结识魔法王妃，领悟了魔法凉帽的精神。在海底帮助小动物时，发现珊瑚秘境里有人类在山中生活的遗迹。与此同时，魔法王妃给阿凉预示，海洋即将遭遇危机。黑商利用海灵珠，操控海灵掠夺各种奇珍异宝，导致海灵失控灾难频发，海底世界一片破败，凤凰山秘境也动荡不安。在魔法王妃指引下，阿凉在秘境森林里发现了海洋文明的遗迹，明白了山海相连、自然平衡的秘密。</desc>
-    <date>2022-10-03</date>
-    <category lang="zh">少儿</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240213084800 +0800" stop="20240213093300 +0800" channel="shanxi">
+  <programme start="20240213080600 +0800" stop="20240213084900 +0800" channel="shanxi">
     <title lang="zh">上午剧场:父母爱情26</title>
     <desc lang="zh">郭涛在剧中他从一个没有文化的毛头小子最终成为一个将军，但该剧诠释的却不是一个如何变成将军故事，而是和安杰如何度过几十年，如何爱了几十年，是一个非常好玩的两个人，吵着、笑着过了一辈子，但不像别的夫妻，生活中的琐事把感情磨没了，他们是谈了一辈子恋爱，很美好。</desc>
     <credits>
@@ -291,7 +285,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213093300 +0800" stop="20240213101800 +0800" channel="shanxi">
+  <programme start="20240213084900 +0800" stop="20240213091100 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240213091100 +0800" stop="20240213095400 +0800" channel="shanxi">
     <title lang="zh">上午剧场:父母爱情27</title>
     <desc lang="zh">郭涛在剧中他从一个没有文化的毛头小子最终成为一个将军，但该剧诠释的却不是一个如何变成将军故事，而是和安杰如何度过几十年，如何爱了几十年，是一个非常好玩的两个人，吵着、笑着过了一辈子，但不像别的夫妻，生活中的琐事把感情磨没了，他们是谈了一辈子恋爱，很美好。</desc>
     <credits>
@@ -315,7 +315,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213101800 +0800" stop="20240213110300 +0800" channel="shanxi">
+  <programme start="20240213095400 +0800" stop="20240213101600 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240213101600 +0800" stop="20240213105900 +0800" channel="shanxi">
     <title lang="zh">上午剧场:父母爱情28</title>
     <desc lang="zh">郭涛在剧中他从一个没有文化的毛头小子最终成为一个将军，但该剧诠释的却不是一个如何变成将军故事，而是和安杰如何度过几十年，如何爱了几十年，是一个非常好玩的两个人，吵着、笑着过了一辈子，但不像别的夫妻，生活中的琐事把感情磨没了，他们是谈了一辈子恋爱，很美好。</desc>
     <credits>
@@ -339,7 +345,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213110300 +0800" stop="20240213123000 +0800" channel="shanxi">
+  <programme start="20240213105900 +0800" stop="20240213112100 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240213112100 +0800" stop="20240213120300 +0800" channel="shanxi">
     <title lang="zh">上午剧场:父母爱情29</title>
     <desc lang="zh">郭涛在剧中他从一个没有文化的毛头小子最终成为一个将军，但该剧诠释的却不是一个如何变成将军故事，而是和安杰如何度过几十年，如何爱了几十年，是一个非常好玩的两个人，吵着、笑着过了一辈子，但不像别的夫妻，生活中的琐事把感情磨没了，他们是谈了一辈子恋爱，很美好。</desc>
     <credits>
@@ -363,26 +375,32 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213123000 +0800" stop="20240213125000 +0800" channel="shanxi">
+  <programme start="20240213120300 +0800" stop="20240213123500 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240213123500 +0800" stop="20240213125900 +0800" channel="shanxi">
     <title lang="zh">瞧这一家子</title>
     <desc lang="zh">山西全新推出的公民道德建设类节目《瞧这一家子》，有感人的故事、有趣的生活，与大家一起分享动人的故事。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213125000 +0800" stop="20240213125500 +0800" channel="shanxi">
+  <programme start="20240213125900 +0800" stop="20240213130100 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213125500 +0800" stop="20240213131600 +0800" channel="shanxi">
+  <programme start="20240213130100 +0800" stop="20240213132900 +0800" channel="shanxi">
     <title lang="zh">人说山西好味道</title>
     <desc lang="zh">因为一道菜，爱上一座城。《人说山西好味道》打造专属山西人的美食地图，助力山西餐饮业高质量发展，同时大力推广山西特优农产品，展示山西美好形象，敬请收看。</desc>
     <date>2022-07-09</date>
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213131600 +0800" stop="20240213135200 +0800" channel="shanxi">
+  <programme start="20240213132900 +0800" stop="20240213140600 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新白娘子传奇35</title>
     <desc lang="zh">白蛇素贞还是一条小蛇时幸得一小牧童相救。千年以后，白蛇素贞前往杭州西湖找到了千年后的小牧童，二人很快就结成秦晋之好。而许仙误听法海谗言，用钵对准白娘子，素贞无法逃脱，被压在雷锋塔下。要等他门的儿子高中状元，才可从雷峰塔中复出。</desc>
     <credits>
@@ -402,13 +420,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国台湾</country>
   </programme>
-  <programme start="20240213135200 +0800" stop="20240213141400 +0800" channel="shanxi">
+  <programme start="20240213140600 +0800" stop="20240213142900 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213141400 +0800" stop="20240213144900 +0800" channel="shanxi">
+  <programme start="20240213142900 +0800" stop="20240213150600 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新白娘子传奇36</title>
     <desc lang="zh">白蛇素贞还是一条小蛇时幸得一小牧童相救。千年以后，白蛇素贞前往杭州西湖找到了千年后的小牧童，二人很快就结成秦晋之好。而许仙误听法海谗言，用钵对准白娘子，素贞无法逃脱，被压在雷锋塔下。要等他门的儿子高中状元，才可从雷峰塔中复出。</desc>
     <credits>
@@ -428,13 +446,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国台湾</country>
   </programme>
-  <programme start="20240213144900 +0800" stop="20240213151200 +0800" channel="shanxi">
+  <programme start="20240213150600 +0800" stop="20240213153000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213151200 +0800" stop="20240213154800 +0800" channel="shanxi">
+  <programme start="20240213153000 +0800" stop="20240213160600 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新白娘子传奇37</title>
     <desc lang="zh">白蛇素贞还是一条小蛇时幸得一小牧童相救。千年以后，白蛇素贞前往杭州西湖找到了千年后的小牧童，二人很快就结成秦晋之好。而许仙误听法海谗言，用钵对准白娘子，素贞无法逃脱，被压在雷锋塔下。要等他门的儿子高中状元，才可从雷峰塔中复出。</desc>
     <credits>
@@ -454,13 +472,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国台湾</country>
   </programme>
-  <programme start="20240213154800 +0800" stop="20240213160900 +0800" channel="shanxi">
+  <programme start="20240213160600 +0800" stop="20240213163100 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213160900 +0800" stop="20240213164500 +0800" channel="shanxi">
+  <programme start="20240213163100 +0800" stop="20240213170700 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新白娘子传奇38</title>
     <desc lang="zh">白蛇素贞还是一条小蛇时幸得一小牧童相救。千年以后，白蛇素贞前往杭州西湖找到了千年后的小牧童，二人很快就结成秦晋之好。而许仙误听法海谗言，用钵对准白娘子，素贞无法逃脱，被压在雷锋塔下。要等他门的儿子高中状元，才可从雷峰塔中复出。</desc>
     <credits>
@@ -480,13 +498,13 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国台湾</country>
   </programme>
-  <programme start="20240213164500 +0800" stop="20240213171900 +0800" channel="shanxi">
+  <programme start="20240213170700 +0800" stop="20240213174100 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213171900 +0800" stop="20240213175500 +0800" channel="shanxi">
+  <programme start="20240213174100 +0800" stop="20240213181000 +0800" channel="shanxi">
     <title lang="zh">下午剧场:新白娘子传奇39</title>
     <desc lang="zh">白蛇素贞还是一条小蛇时幸得一小牧童相救。千年以后，白蛇素贞前往杭州西湖找到了千年后的小牧童，二人很快就结成秦晋之好。而许仙误听法海谗言，用钵对准白娘子，素贞无法逃脱，被压在雷锋塔下。要等他门的儿子高中状元，才可从雷峰塔中复出。</desc>
     <credits>
@@ -506,32 +524,32 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国台湾</country>
   </programme>
-  <programme start="20240213175500 +0800" stop="20240213182000 +0800" channel="shanxi">
+  <programme start="20240213181000 +0800" stop="20240213181700 +0800" channel="shanxi">
     <title lang="zh">专家来了</title>
     <desc lang="zh">名医汇聚演播室，为您的健康人生保驾护航！</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213182000 +0800" stop="20240213183000 +0800" channel="shanxi">
-    <title lang="zh">人说山西好味道</title>
-    <desc lang="zh">因为一道菜，爱上一座城。《人说山西好味道》打造专属山西人的美食地图，助力山西餐饮业高质量发展，同时大力推广山西特优农产品，展示山西美好形象，敬请收看。</desc>
-    <date>2022-07-09</date>
+  <programme start="20240213181700 +0800" stop="20240213183000 +0800" channel="shanxi">
+    <title lang="zh">独当一面</title>
+    <desc lang="zh">世界的面食在中国，中国的面食在山西。拥有两千多年的面食历史的山西，被称为“世界面食之根”。如今，经历了时光的搓揉，山西面食集各家之所长，不断演变，形成了今天的山西面食文化。而庞杂丰盛的山西面，离不开山西人的一双巧手。做好一碗山西面，需要“十八般武艺”！</desc>
+    <date>2023-12-29</date>
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213183000 +0800" stop="20240213185300 +0800" channel="shanxi">
+  <programme start="20240213183000 +0800" stop="20240213185500 +0800" channel="shanxi">
     <title lang="zh">山西新闻联播</title>
     <desc lang="zh">山西新闻联播。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213185300 +0800" stop="20240213190000 +0800" channel="shanxi">
+  <programme start="20240213185500 +0800" stop="20240213190000 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213190000 +0800" stop="20240213193400 +0800" channel="shanxi">
+  <programme start="20240213190000 +0800" stop="20240213193500 +0800" channel="shanxi">
     <title lang="zh">转播中央台新闻联播</title>
     <desc lang="zh">新闻联播节目播出时长一般为30分钟，但是如果当天发生的事件与中国关系重大，或是在中国发生突发事件时，则会加长时间。加长的时间会根据事件的大小和性质做出调整。</desc>
     <credits>
@@ -540,7 +558,7 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240213193400 +0800" stop="20240213202300 +0800" channel="shanxi">
+  <programme start="20240213193500 +0800" stop="20240213202300 +0800" channel="shanxi">
     <title lang="zh">黄金剧场:心想事成7</title>
     <desc lang="zh">孙心、孙想，一个敢打敢闯、一个温润如水，姐姐孙心美丽大方，追求自由，敢于拼搏。妹妹孙想单纯善良，爱说爱笑。迥然不同的个性让两姐妹走出完全不同的人生轨迹。姐姐在互联网公司风生水起、人生大开大合，妹妹发掘自我特长，做着美食博主，生活平淡有滋味。2012到2020八年光阴，她们的生活越来越好，虽然经历了很多，但始终对未来充满信心。</desc>
     <credits>
