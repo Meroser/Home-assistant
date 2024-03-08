@@ -18,101 +18,93 @@
 <channel id="shanxi5">
 <display-name lang="zh">山西文体生活</display-name>
 </channel>
-  <programme start="20240308003700 +0800" stop="20240308005700 +0800" channel="shanxi">
+  <programme start="20240309003900 +0800" stop="20240309010000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308005700 +0800" stop="20240308014000 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子27</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240309010000 +0800" stop="20240309014200 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏1</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308014000 +0800" stop="20240308022300 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子28</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240309014200 +0800" stop="20240309022500 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏2</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308022300 +0800" stop="20240308030600 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子29</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240309022500 +0800" stop="20240309030800 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏3</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308030600 +0800" stop="20240308034800 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子30</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240309030800 +0800" stop="20240309035200 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏4</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308034800 +0800" stop="20240308042200 +0800" channel="shanxi">
+  <programme start="20240309035200 +0800" stop="20240309042600 +0800" channel="shanxi">
     <title lang="zh">纪录片:百年巨匠</title>
     <desc lang="zh">百年巨匠是由央视、中央新影、银谷艺术馆联合摄制的大型人物传记纪录片。呈现了齐白石，徐悲鸿，黄宾虹，张大千等绘画巨匠的传奇人生和非凡艺术历程。</desc>
     <credits>
@@ -122,8 +114,8 @@
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308042200 +0800" stop="20240308050400 +0800" channel="shanxi">
-    <title lang="zh">清晨剧场:黑狐29</title>
+  <programme start="20240309042600 +0800" stop="20240309050500 +0800" channel="shanxi">
+    <title lang="zh">清晨剧场:黑狐31</title>
     <desc lang="zh">民国初期，富商顾汉森收养了两个义子，廖思成和方天翼，两人与他的亲女儿顾婷青梅竹马长大，三人情同手足。长大后，廖思成以优异的成绩从黄埔军校毕业，留学日本。表面上他是国民党军官，实际身份是中共潜伏在国军中的卧底。在日本留学期间他与日军高官的女儿大岛由美相爱，九一八事变爆发，两人只得惜别。回国后，加入军统，顾婷和方天翼也一同追随。</desc>
     <credits>
       <director>杜玉明</director>
@@ -144,8 +136,8 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308050400 +0800" stop="20240308054500 +0800" channel="shanxi">
-    <title lang="zh">清晨剧场:黑狐30</title>
+  <programme start="20240309050500 +0800" stop="20240309054500 +0800" channel="shanxi">
+    <title lang="zh">清晨剧场:黑狐32</title>
     <desc lang="zh">民国初期，富商顾汉森收养了两个义子，廖思成和方天翼，两人与他的亲女儿顾婷青梅竹马长大，三人情同手足。长大后，廖思成以优异的成绩从黄埔军校毕业，留学日本。表面上他是国民党军官，实际身份是中共潜伏在国军中的卧底。在日本留学期间他与日军高官的女儿大岛由美相爱，九一八事变爆发，两人只得惜别。回国后，加入军统，顾婷和方天翼也一同追随。</desc>
     <credits>
       <director>杜玉明</director>
@@ -166,19 +158,19 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308054500 +0800" stop="20240308060500 +0800" channel="shanxi">
+  <programme start="20240309054500 +0800" stop="20240309060500 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308060500 +0800" stop="20240308063100 +0800" channel="shanxi">
-    <title lang="zh">山西面食大会</title>
+  <programme start="20240309060500 +0800" stop="20240309062000 +0800" channel="shanxi">
+    <title lang="zh">世界面食大会</title>
     <desc lang="zh">《世界面食大会》是国内首档以面食技艺展示为内容、以面食文化传播为宗旨的大型电视节目。以面食为出发点，创新挖掘山西各地美食资源，以电视美食竞演的方式力邀世界知名面食品牌展开巅峰对决。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308063100 +0800" stop="20240308070000 +0800" channel="shanxi">
+  <programme start="20240309062000 +0800" stop="20240309064800 +0800" channel="shanxi">
     <title lang="zh">纪录片:百年巨匠</title>
     <desc lang="zh">百年巨匠是由央视、中央新影、银谷艺术馆联合摄制的大型人物传记纪录片。呈现了齐白石，徐悲鸿，黄宾虹，张大千等绘画巨匠的传奇人生和非凡艺术历程。</desc>
     <credits>
@@ -188,259 +180,249 @@
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308070000 +0800" stop="20240308070100 +0800" channel="shanxi">
+  <programme start="20240309064800 +0800" stop="20240309070000 +0800" channel="shanxi">
+    <title lang="zh">发现山西</title>
+    <desc lang="zh">山西英语新闻节目《Exploring Shanxi 发现山西》。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309070000 +0800" stop="20240309070100 +0800" channel="shanxi">
     <title lang="zh">中华人民共和国国歌</title>
     <desc lang="zh">中华人民共和国国歌。</desc>
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308070100 +0800" stop="20240308072300 +0800" channel="shanxi">
+  <programme start="20240309070100 +0800" stop="20240309072300 +0800" channel="shanxi">
     <title lang="zh">山西新闻联播</title>
     <desc lang="zh">山西新闻联播。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308072300 +0800" stop="20240308072500 +0800" channel="shanxi">
+  <programme start="20240309072300 +0800" stop="20240309072500 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308072500 +0800" stop="20240308074000 +0800" channel="shanxi">
+  <programme start="20240309072500 +0800" stop="20240309074100 +0800" channel="shanxi">
     <title lang="zh">奋晋者说</title>
     <desc lang="zh">致力推动山西质量、山西品牌、山西文化的发展。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308074000 +0800" stop="20240308081100 +0800" channel="shanxi">
+  <programme start="20240309074100 +0800" stop="20240309081000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308081100 +0800" stop="20240308083900 +0800" channel="shanxi">
+  <programme start="20240309081000 +0800" stop="20240309082000 +0800" channel="shanxi">
+    <title lang="zh">独当一面</title>
+    <desc lang="zh">世界的面食在中国，中国的面食在山西。拥有两千多年的面食历史的山西，被称为“世界面食之根”。如今，经历了时光的搓揉，山西面食集各家之所长，不断演变，形成了今天的山西面食文化。而庞杂丰盛的山西面，离不开山西人的一双巧手。做好一碗山西面，需要“十八般武艺”！</desc>
+    <date>2023-12-29</date>
+    <category lang="zh">科教</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309082000 +0800" stop="20240309084700 +0800" channel="shanxi">
     <title lang="zh">动画片:古城小镖师</title>
     <desc lang="zh">该片以千年古城池与文化积淀为切入点，以动漫为桥梁，搭建平遥古城与当代青少年的情感共鸣舞台，传播弘扬票号文化、镖局文化、晋商文化等山西特色文化符号，打造中国新时代文旅数字文创标杆项目，以传播中国文化为使命、推动文旅产业数字化转型。</desc>
     <date>2024-02-24</date>
     <category lang="zh">少儿</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308083900 +0800" stop="20240308110600 +0800" channel="shanxi">
-    <title lang="zh">电影:打击侵略者</title>
-    <desc lang="zh">影片根据宋之的话剧《保卫和平》改编。影片讲述了中国志愿军和朝鲜人民军协同作战，共同严厉打击侵略者的一次战斗过程，表现了战士们英勇顽强战斗、勇于自我牺牲的坚强意志和国际主义精神。</desc>
+  <programme start="20240309084700 +0800" stop="20240309110700 +0800" channel="shanxi">
+    <title lang="zh">电影:风雪大别山</title>
+    <desc lang="zh">二十年代未，秀珍和丈夫林天祥在郑从义的影响下参加了革命。红军主力北上后，郑的小儿子小龙也要上前线参战。秀珍和吴红英在带领群众转移途中被俘，生死关头，红英抱敌人跳崔，大难不死的红英在崔下发现林天祥的女儿小芳。十几年后，小芳成长为优秀的游击队员，小龙也改名郑云龙，成为部队一名基层干部。1947年，刘邓大军挺进大别山，郑云龙和已经是师长的林天祥回到魂牵梦绕的故乡，百感交集。</desc>
     <credits>
-      <director>华纯</director>
-      <actor>张勇手</actor>
-      <actor>张良</actor>
-      <actor>李炎</actor>
-      <actor>于纯绵</actor>
-      <actor>胡晓光</actor>
-      <writer>张勇手</writer>
-      <writer>张良</writer>
-      <writer>李炎</writer>
-      <writer>于纯绵</writer>
-      <writer>胡晓光</writer>
+      <director>黄祖模</director>
+      <actor>雷平</actor>
+      <actor>丁一虹</actor>
+      <actor>张敏</actor>
+      <writer>雷平</writer>
+      <writer>丁一虹</writer>
+      <writer>张敏</writer>
     </credits>
-    <date>1965-02-06</date>
+    <date>1961-01-01</date>
     <category lang="zh">电影</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308110600 +0800" stop="20240308112900 +0800" channel="shanxi">
+  <programme start="20240309110700 +0800" stop="20240309113000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308112900 +0800" stop="20240308115500 +0800" channel="shanxi">
+  <programme start="20240309113000 +0800" stop="20240309115600 +0800" channel="shanxi">
     <title lang="zh">电影</title>
     <desc lang="zh">电影维基。</desc>
     <date>2015-05-18</date>
     <category lang="zh">电影</category>
     <country lang="zh">土耳其</country>
   </programme>
-  <programme start="20240308115500 +0800" stop="20240308123000 +0800" channel="shanxi">
+  <programme start="20240309115600 +0800" stop="20240309123000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308123000 +0800" stop="20240308125000 +0800" channel="shanxi">
+  <programme start="20240309123000 +0800" stop="20240309125000 +0800" channel="shanxi">
     <title lang="zh">新闻午报</title>
     <desc lang="zh">山西新闻午报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308125000 +0800" stop="20240308125200 +0800" channel="shanxi">
+  <programme start="20240309125000 +0800" stop="20240309125600 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308125200 +0800" stop="20240308131600 +0800" channel="shanxi">
-    <title lang="zh">生活服务</title>
-    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
+  <programme start="20240309125600 +0800" stop="20240309133300 +0800" channel="shanxi">
+    <title lang="zh">梨园记忆-山西戏曲名家口述历史</title>
   </programme>
-  <programme start="20240308131600 +0800" stop="20240308135300 +0800" channel="shanxi">
-    <title lang="zh">下午剧场:康熙微服私访记第三部23</title>
-    <desc lang="zh">《康熙微服私访记3》沿袭前两部借古讽今、针贬时弊的新派古装轻喜剧作品风格，分为“锦袍记”、“食盒记”和“铃铛记”三个单元故事组成。“锦袍记”中康熙派大太监三德子回故里调查贪官一事，然而当牵扯进亲情之后事情开始变得难以取舍；“食盒记”由宜妃的亲戚噶礼送的食盒引发；而在“铃铛记”中，康熙竟然独身离宫，当起了普通老百姓。</desc>
+  <programme start="20240309133300 +0800" stop="20240309140900 +0800" channel="shanxi">
+    <title lang="zh">下午剧场:大宋提刑官1</title>
+    <desc lang="zh">宋慈参加京试中了进士，预备返家完婚后随同科好友孟良臣赴边城。岂料，祸不单行，孟良臣在上任途中被谋杀的噩耗传回。在母亲的劝导下，宋慈动身边城，为挚友查明了案情，还它清白。由此，宋慈被破格提升为大理寺正六品主事，后又被任命外省提点刑狱。</desc>
     <credits>
-      <director>张国立</director>
-      <actor>张国立</actor>
-      <actor>邓婕</actor>
-      <actor>赵亮</actor>
-      <actor>侯堃</actor>
-      <actor>刘淼</actor>
-      <actor>俞立文</actor>
-      <actor>龚蓓苾</actor>
-      <actor>杨俊勇</actor>
-      <writer>张国立</writer>
-      <writer>邓婕</writer>
-      <writer>赵亮</writer>
-      <writer>侯堃</writer>
-      <writer>刘淼</writer>
-      <writer>俞立文</writer>
-      <writer>龚蓓苾</writer>
-      <writer>杨俊勇</writer>
+      <director>阚卫平</director>
+      <actor>何冰</actor>
+      <actor>罗海琼</actor>
+      <actor>郭达</actor>
+      <actor>杨御</actor>
+      <actor>程相银</actor>
+      <writer>何冰</writer>
+      <writer>罗海琼</writer>
+      <writer>郭达</writer>
+      <writer>杨御</writer>
+      <writer>程相银</writer>
     </credits>
-    <date>2000-08-26</date>
+    <date>2005-03-20</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308135300 +0800" stop="20240308141500 +0800" channel="shanxi">
+  <programme start="20240309140900 +0800" stop="20240309143200 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308141500 +0800" stop="20240308145100 +0800" channel="shanxi">
-    <title lang="zh">下午剧场:康熙微服私访记第三部24</title>
-    <desc lang="zh">《康熙微服私访记3》沿袭前两部借古讽今、针贬时弊的新派古装轻喜剧作品风格，分为“锦袍记”、“食盒记”和“铃铛记”三个单元故事组成。“锦袍记”中康熙派大太监三德子回故里调查贪官一事，然而当牵扯进亲情之后事情开始变得难以取舍；“食盒记”由宜妃的亲戚噶礼送的食盒引发；而在“铃铛记”中，康熙竟然独身离宫，当起了普通老百姓。</desc>
+  <programme start="20240309143200 +0800" stop="20240309150800 +0800" channel="shanxi">
+    <title lang="zh">下午剧场:大宋提刑官2</title>
+    <desc lang="zh">宋慈参加京试中了进士，预备返家完婚后随同科好友孟良臣赴边城。岂料，祸不单行，孟良臣在上任途中被谋杀的噩耗传回。在母亲的劝导下，宋慈动身边城，为挚友查明了案情，还它清白。由此，宋慈被破格提升为大理寺正六品主事，后又被任命外省提点刑狱。</desc>
     <credits>
-      <director>张国立</director>
-      <actor>张国立</actor>
-      <actor>邓婕</actor>
-      <actor>赵亮</actor>
-      <actor>侯堃</actor>
-      <actor>刘淼</actor>
-      <actor>俞立文</actor>
-      <actor>龚蓓苾</actor>
-      <actor>杨俊勇</actor>
-      <writer>张国立</writer>
-      <writer>邓婕</writer>
-      <writer>赵亮</writer>
-      <writer>侯堃</writer>
-      <writer>刘淼</writer>
-      <writer>俞立文</writer>
-      <writer>龚蓓苾</writer>
-      <writer>杨俊勇</writer>
+      <director>阚卫平</director>
+      <actor>何冰</actor>
+      <actor>罗海琼</actor>
+      <actor>郭达</actor>
+      <actor>杨御</actor>
+      <actor>程相银</actor>
+      <writer>何冰</writer>
+      <writer>罗海琼</writer>
+      <writer>郭达</writer>
+      <writer>杨御</writer>
+      <writer>程相银</writer>
     </credits>
-    <date>2000-08-26</date>
+    <date>2005-03-20</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308145100 +0800" stop="20240308151400 +0800" channel="shanxi">
+  <programme start="20240309150800 +0800" stop="20240309153100 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308151400 +0800" stop="20240308155000 +0800" channel="shanxi">
-    <title lang="zh">下午剧场:康熙微服私访记第三部25</title>
-    <desc lang="zh">《康熙微服私访记3》沿袭前两部借古讽今、针贬时弊的新派古装轻喜剧作品风格，分为“锦袍记”、“食盒记”和“铃铛记”三个单元故事组成。“锦袍记”中康熙派大太监三德子回故里调查贪官一事，然而当牵扯进亲情之后事情开始变得难以取舍；“食盒记”由宜妃的亲戚噶礼送的食盒引发；而在“铃铛记”中，康熙竟然独身离宫，当起了普通老百姓。</desc>
+  <programme start="20240309153100 +0800" stop="20240309160800 +0800" channel="shanxi">
+    <title lang="zh">下午剧场:大宋提刑官3</title>
+    <desc lang="zh">宋慈参加京试中了进士，预备返家完婚后随同科好友孟良臣赴边城。岂料，祸不单行，孟良臣在上任途中被谋杀的噩耗传回。在母亲的劝导下，宋慈动身边城，为挚友查明了案情，还它清白。由此，宋慈被破格提升为大理寺正六品主事，后又被任命外省提点刑狱。</desc>
     <credits>
-      <director>张国立</director>
-      <actor>张国立</actor>
-      <actor>邓婕</actor>
-      <actor>赵亮</actor>
-      <actor>侯堃</actor>
-      <actor>刘淼</actor>
-      <actor>俞立文</actor>
-      <actor>龚蓓苾</actor>
-      <actor>杨俊勇</actor>
-      <writer>张国立</writer>
-      <writer>邓婕</writer>
-      <writer>赵亮</writer>
-      <writer>侯堃</writer>
-      <writer>刘淼</writer>
-      <writer>俞立文</writer>
-      <writer>龚蓓苾</writer>
-      <writer>杨俊勇</writer>
+      <director>阚卫平</director>
+      <actor>何冰</actor>
+      <actor>罗海琼</actor>
+      <actor>郭达</actor>
+      <actor>杨御</actor>
+      <actor>程相银</actor>
+      <writer>何冰</writer>
+      <writer>罗海琼</writer>
+      <writer>郭达</writer>
+      <writer>杨御</writer>
+      <writer>程相银</writer>
     </credits>
-    <date>2000-08-26</date>
+    <date>2005-03-20</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308155000 +0800" stop="20240308161200 +0800" channel="shanxi">
+  <programme start="20240309160800 +0800" stop="20240309163000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308161200 +0800" stop="20240308164800 +0800" channel="shanxi">
-    <title lang="zh">下午剧场:康熙微服私访记第三部26</title>
-    <desc lang="zh">《康熙微服私访记3》沿袭前两部借古讽今、针贬时弊的新派古装轻喜剧作品风格，分为“锦袍记”、“食盒记”和“铃铛记”三个单元故事组成。“锦袍记”中康熙派大太监三德子回故里调查贪官一事，然而当牵扯进亲情之后事情开始变得难以取舍；“食盒记”由宜妃的亲戚噶礼送的食盒引发；而在“铃铛记”中，康熙竟然独身离宫，当起了普通老百姓。</desc>
+  <programme start="20240309163000 +0800" stop="20240309170600 +0800" channel="shanxi">
+    <title lang="zh">下午剧场:大宋提刑官4</title>
+    <desc lang="zh">宋慈参加京试中了进士，预备返家完婚后随同科好友孟良臣赴边城。岂料，祸不单行，孟良臣在上任途中被谋杀的噩耗传回。在母亲的劝导下，宋慈动身边城，为挚友查明了案情，还它清白。由此，宋慈被破格提升为大理寺正六品主事，后又被任命外省提点刑狱。</desc>
     <credits>
-      <director>张国立</director>
-      <actor>张国立</actor>
-      <actor>邓婕</actor>
-      <actor>赵亮</actor>
-      <actor>侯堃</actor>
-      <actor>刘淼</actor>
-      <actor>俞立文</actor>
-      <actor>龚蓓苾</actor>
-      <actor>杨俊勇</actor>
-      <writer>张国立</writer>
-      <writer>邓婕</writer>
-      <writer>赵亮</writer>
-      <writer>侯堃</writer>
-      <writer>刘淼</writer>
-      <writer>俞立文</writer>
-      <writer>龚蓓苾</writer>
-      <writer>杨俊勇</writer>
+      <director>阚卫平</director>
+      <actor>何冰</actor>
+      <actor>罗海琼</actor>
+      <actor>郭达</actor>
+      <actor>杨御</actor>
+      <actor>程相银</actor>
+      <writer>何冰</writer>
+      <writer>罗海琼</writer>
+      <writer>郭达</writer>
+      <writer>杨御</writer>
+      <writer>程相银</writer>
     </credits>
-    <date>2000-08-26</date>
+    <date>2005-03-20</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308164800 +0800" stop="20240308172300 +0800" channel="shanxi">
+  <programme start="20240309170600 +0800" stop="20240309174100 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308172300 +0800" stop="20240308174700 +0800" channel="shanxi">
-    <title lang="zh">下午剧场</title>
-    <desc lang="zh">《下午剧场》是一档在下午时段播放各类精彩影剧作品的栏目。汇集谍战悬疑、古装传奇、年代家族剧，或惊险刺激，或耐人寻味，《下午剧场》跌宕起伏的人生百态、传奇故事为居家观众呈上丰盛的影视下午茶。</desc>
-    <category lang="zh">其它</category>
+  <programme start="20240309174100 +0800" stop="20240309180700 +0800" channel="shanxi">
+    <title lang="zh">下午剧场:大宋提刑官5</title>
+    <desc lang="zh">宋慈参加京试中了进士，预备返家完婚后随同科好友孟良臣赴边城。岂料，祸不单行，孟良臣在上任途中被谋杀的噩耗传回。在母亲的劝导下，宋慈动身边城，为挚友查明了案情，还它清白。由此，宋慈被破格提升为大理寺正六品主事，后又被任命外省提点刑狱。</desc>
+    <credits>
+      <director>阚卫平</director>
+      <actor>何冰</actor>
+      <actor>罗海琼</actor>
+      <actor>郭达</actor>
+      <actor>杨御</actor>
+      <actor>程相银</actor>
+      <writer>何冰</writer>
+      <writer>罗海琼</writer>
+      <writer>郭达</writer>
+      <writer>杨御</writer>
+      <writer>程相银</writer>
+    </credits>
+    <date>2005-03-20</date>
+    <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308174700 +0800" stop="20240308181800 +0800" channel="shanxi">
+  <programme start="20240309180700 +0800" stop="20240309183000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308181800 +0800" stop="20240308183000 +0800" channel="shanxi">
-    <title lang="zh">发现山西</title>
-    <desc lang="zh">山西英语新闻节目《Exploring Shanxi 发现山西》。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308183000 +0800" stop="20240308185500 +0800" channel="shanxi">
+  <programme start="20240309183000 +0800" stop="20240309185500 +0800" channel="shanxi">
     <title lang="zh">山西新闻联播</title>
     <desc lang="zh">山西新闻联播。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308185500 +0800" stop="20240308190000 +0800" channel="shanxi">
+  <programme start="20240309185500 +0800" stop="20240309190000 +0800" channel="shanxi">
     <title lang="zh">天气预报</title>
     <desc lang="zh">山西卫视每日天气播报。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308190000 +0800" stop="20240308193300 +0800" channel="shanxi">
+  <programme start="20240309190000 +0800" stop="20240309193300 +0800" channel="shanxi">
     <title lang="zh">转播中央台新闻联播</title>
     <desc lang="zh">新闻联播节目播出时长一般为30分钟，但是如果当天发生的事件与中国关系重大，或是在中国发生突发事件时，则会加长时间。加长的时间会根据事件的大小和性质做出调整。</desc>
     <credits>
@@ -449,14 +431,8 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308193300 +0800" stop="20240308195000 +0800" channel="shanxi">
-    <title lang="zh">奋晋者说</title>
-    <desc lang="zh">致力推动山西质量、山西品牌、山西文化的发展。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308195000 +0800" stop="20240308203800 +0800" channel="shanxi">
-    <title lang="zh">黄金剧场:底线19</title>
+  <programme start="20240309193300 +0800" stop="20240309202100 +0800" channel="shanxi">
+    <title lang="zh">黄金剧场:底线21</title>
     <desc lang="zh">星城区人民法院立案庭庭长方远，与榕州市中级人民法院刑一庭副庭长宋羽霏同为星城区人民法院副院长张伟民的徒弟，师徒三人将青春与热血都奉献给了中国的司法事业。而今，方远的徒弟兼法助周亦安也刚刚成为员额法官，曾经的师徒团，现在分散到不同的审判岗位，继续发光发热。最高法研究室的年轻女干部叶芯突然空降，让星城法院有了更多变化。</desc>
     <credits>
       <director>刘国彤</director>
@@ -479,8 +455,8 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308203800 +0800" stop="20240308212900 +0800" channel="shanxi">
-    <title lang="zh">黄金剧场:底线20</title>
+  <programme start="20240309202100 +0800" stop="20240309210000 +0800" channel="shanxi">
+    <title lang="zh">黄金剧场:底线22</title>
     <desc lang="zh">星城区人民法院立案庭庭长方远，与榕州市中级人民法院刑一庭副庭长宋羽霏同为星城区人民法院副院长张伟民的徒弟，师徒三人将青春与热血都奉献给了中国的司法事业。而今，方远的徒弟兼法助周亦安也刚刚成为员额法官，曾经的师徒团，现在分散到不同的审判岗位，继续发光发热。最高法研究室的年轻女干部叶芯突然空降，让星城法院有了更多变化。</desc>
     <credits>
       <director>刘国彤</director>
@@ -503,21 +479,14 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308212900 +0800" stop="20240308213900 +0800" channel="shanxi">
-    <title lang="zh">独当一面</title>
-    <desc lang="zh">世界的面食在中国，中国的面食在山西。拥有两千多年的面食历史的山西，被称为“世界面食之根”。如今，经历了时光的搓揉，山西面食集各家之所长，不断演变，形成了今天的山西面食文化。而庞杂丰盛的山西面，离不开山西人的一双巧手。做好一碗山西面，需要“十八般武艺”！</desc>
-    <date>2023-12-29</date>
-    <category lang="zh">科教</category>
+  <programme start="20240309210000 +0800" stop="20240309221300 +0800" channel="shanxi">
+    <title lang="zh">歌从黄河来</title>
+    <desc lang="zh">是山西卫视一档音乐秀节目，歌声跨越近30年的历届中央电视台春节联欢晚会，六路选手各显神通，争夺情歌王。选手不仅来自不同的民族、国度，而且还来自各行各业。</desc>
+    <category lang="zh">娱乐</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308213900 +0800" stop="20240308215900 +0800" channel="shanxi">
-    <title lang="zh">晚间新闻</title>
-    <desc lang="zh">山西卫视晚间新闻。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308215900 +0800" stop="20240308224100 +0800" channel="shanxi">
-    <title lang="zh">电视剧:亮剑8</title>
+  <programme start="20240309221300 +0800" stop="20240309224400 +0800" channel="shanxi">
+    <title lang="zh">电视剧:亮剑11</title>
     <desc lang="zh">优秀将领李云龙富从他任八路军某独立团团长率部在晋西北英勇抗击日寇开始，直到他在1955年授予将军为止。“面对强大的敌手，明知不敌也要毅然亮剑。即使倒下，也要成为一座山，一道岭。”—这句话就是李云龙，这位“战神”式将军的一生写照。</desc>
     <credits>
       <director>张前</director>
@@ -538,14 +507,14 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308224100 +0800" stop="20240308231200 +0800" channel="shanxi">
+  <programme start="20240309224400 +0800" stop="20240309231600 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308231200 +0800" stop="20240308235700 +0800" channel="shanxi">
-    <title lang="zh">电视剧:亮剑9</title>
+  <programme start="20240309231600 +0800" stop="20240309235800 +0800" channel="shanxi">
+    <title lang="zh">电视剧:亮剑12</title>
     <desc lang="zh">优秀将领李云龙富从他任八路军某独立团团长率部在晋西北英勇抗击日寇开始，直到他在1955年授予将军为止。“面对强大的敌手，明知不敌也要毅然亮剑。即使倒下，也要成为一座山，一道岭。”—这句话就是李云龙，这位“战神”式将军的一生写照。</desc>
     <credits>
       <director>张前</director>
@@ -566,102 +535,88 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308235700 +0800" stop="20240309003900 +0800" channel="shanxi">
-    <title lang="zh">电视剧:亮剑10</title>
-    <desc lang="zh">优秀将领李云龙富从他任八路军某独立团团长率部在晋西北英勇抗击日寇开始，直到他在1955年授予将军为止。“面对强大的敌手，明知不敌也要毅然亮剑。即使倒下，也要成为一座山，一道岭。”—这句话就是李云龙，这位“战神”式将军的一生写照。</desc>
-    <credits>
-      <director>张前</director>
-      <actor>李幼斌</actor>
-      <actor>何政军</actor>
-      <actor>张光北</actor>
-      <actor>张桐</actor>
-      <actor>童蕾</actor>
-      <actor>孙俪</actor>
-      <writer>李幼斌</writer>
-      <writer>何政军</writer>
-      <writer>张光北</writer>
-      <writer>张桐</writer>
-      <writer>童蕾</writer>
-      <writer>孙俪</writer>
-    </credits>
-    <date>2005-09-12</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240309003900 +0800" stop="20240309010000 +0800" channel="shanxi">
+  <programme start="20240309235800 +0800" stop="20240310002000 +0800" channel="shanxi">
     <title lang="zh">生活服务</title>
     <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309010000 +0800" stop="20240309014200 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子31</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240310002000 +0800" stop="20240310010200 +0800" channel="shanxi">
+    <title lang="zh">电视剧:亮剑13</title>
+    <desc lang="zh">优秀将领李云龙富从他任八路军某独立团团长率部在晋西北英勇抗击日寇开始，直到他在1955年授予将军为止。“面对强大的敌手，明知不敌也要毅然亮剑。即使倒下，也要成为一座山，一道岭。”—这句话就是李云龙，这位“战神”式将军的一生写照。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>张前</director>
+      <actor>李幼斌</actor>
+      <actor>何政军</actor>
+      <actor>张光北</actor>
+      <actor>张桐</actor>
+      <actor>童蕾</actor>
+      <actor>孙俪</actor>
+      <writer>李幼斌</writer>
+      <writer>何政军</writer>
+      <writer>张光北</writer>
+      <writer>张桐</writer>
+      <writer>童蕾</writer>
+      <writer>孙俪</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2005-09-12</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309014200 +0800" stop="20240309022500 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子32</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240310010200 +0800" stop="20240310012400 +0800" channel="shanxi">
+    <title lang="zh">生活服务</title>
+    <desc lang="zh">以电视媒体作为推广工具，向观众介绍各种产品信息，涉及到生活、经济、文化、娱乐等各个方面资讯。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310012400 +0800" stop="20240310020800 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏5</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309022500 +0800" stop="20240309030800 +0800" channel="shanxi">
-    <title lang="zh">黎明剧场:我们的日子33</title>
-    <desc lang="zh">上世纪八十年代初，同住工厂家属区的王雪花、东方红、杨思宇在同一天出生。随着孩子的出生，三家两代人的情感纠葛就在这飞速前进的时代浪潮中一点点展开。王家和杨家父辈之间的矛盾牵累到各自身上，让相爱的两个人分开，而一直在背后默默关注着雪花的东方红终于打动雪花，二人走到了一起。长大成人的三个孩子成为了家庭支柱，三家之间的恩怨矛盾也在平凡的日子中逐渐开解。</desc>
+  <programme start="20240310020800 +0800" stop="20240310025100 +0800" channel="shanxi">
+    <title lang="zh">黎明剧场:风吹半夏6</title>
+    <desc lang="zh">许半夏的母亲生许半夏的时候难产而死，父亲自许半夏出生起便不闻不问，反而养成了许半夏天生傲骨、敢闯敢拼的性格。随着中国经济的腾飞，许半夏硬是凭借敢想敢闯的冒险精神和务实的处事态度，勇闯俄罗斯，历经千辛万苦甚至生死考验，开辟了独立的国际钢铁进口业务，收获了事业的第一桶金。此时钢材市场竞争激烈，凭借着卓越的眼光和果敢的个性以及对市场的嗅觉，许半夏排除万难，逐渐将事业版图扩大。</desc>
     <credits>
-      <director>王雷</director>
-      <actor>李小冉</actor>
-      <actor>李乃文</actor>
-      <actor>周依然</actor>
-      <actor>周奇</actor>
-      <actor>宋春丽</actor>
-      <actor>孙浩</actor>
-      <writer>李小冉</writer>
-      <writer>李乃文</writer>
-      <writer>周依然</writer>
-      <writer>周奇</writer>
-      <writer>宋春丽</writer>
-      <writer>孙浩</writer>
+      <director>傅东育</director>
+      <actor>赵丽颖</actor>
+      <actor>欧豪</actor>
+      <actor>李光洁</actor>
+      <actor>刘威</actor>
+      <actor>柯蓝</actor>
+      <writer>赵丽颖</writer>
+      <writer>欧豪</writer>
+      <writer>李光洁</writer>
+      <writer>刘威</writer>
+      <writer>柯蓝</writer>
     </credits>
-    <date>2023-02-06</date>
+    <date>2022-11-27</date>
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308003000 +0800" stop="20240308052500 +0800" channel="shanxi1">
-    <title lang="zh">夜黄河剧场:有你才幸福13-17</title>
+  <programme start="20240310025100 +0800" stop="20240310040200 +0800" channel="shanxi">
+    <title lang="zh">歌从黄河来</title>
+    <desc lang="zh">是山西卫视一档音乐秀节目，歌声跨越近30年的历届中央电视台春节联欢晚会，六路选手各显神通，争夺情歌王。选手不仅来自不同的民族、国度，而且还来自各行各业。</desc>
+    <category lang="zh">娱乐</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309003300 +0800" stop="20240309052500 +0800" channel="shanxi1">
+    <title lang="zh">夜黄河剧场:有你才幸福18-22</title>
     <desc lang="zh">住在老北京四合院的祺瑞年晚年不得安生，相濡以沫的老伴罹患晚期癌症撒手人寰，老宅拆迁以及赔偿款问题又让心怀鬼胎的儿女们搅出无数是非。看尽世态炎凉、失去了人生方向的老人在票友唱戏的时候结识了比自己年龄小许多的宋茹君，宋的温柔体贴、善解人意给了这个孤独的老人以莫大的安慰。</desc>
     <credits>
       <director>王瑞</director>
@@ -678,8 +633,8 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308052500 +0800" stop="20240308072000 +0800" channel="shanxi1">
-    <title lang="zh">早间剧场:我是赵传奇33-34</title>
+  <programme start="20240309052500 +0800" stop="20240309072000 +0800" channel="shanxi1">
+    <title lang="zh">早间剧场:我是赵传奇35-36</title>
     <desc lang="zh">赵传奇接上级指令，令他带上档案，回军区接受重要任务。途中遭遇伏击，不得已烧掉档案，身负重伤的的赵传奇回到了军区，因无法证明身份而产生误会，赵传奇巧用诈降突围的事情恰巧又被军分区的侦察员亲眼所见，于是，赵传奇被扣上叛徒的帽子，跌落至谷底。</desc>
     <credits>
       <director>海顿</director>
@@ -700,14 +655,18 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308072000 +0800" stop="20240308074000 +0800" channel="shanxi1">
-    <title lang="zh">寻味山西</title>
-    <desc lang="zh">纪录片是以真实生活为创作素材，以真人真事为表现对象，并对其进行艺术的加工与展现的，以展现真实为本质，并用真实引发人们思考的电影或电视艺术形式。将观众带进人文空间，揭秘历史，叙述故事，解密事件。</desc>
-    <category lang="zh">科教</category>
+  <programme start="20240309072000 +0800" stop="20240309074000 +0800" channel="shanxi1">
+    <title lang="zh">星光</title>
+    <desc lang="zh">一个萦绕中国人心头千年的梦想，如今实现在即。中国电影人再度集结，走过万水千山为你讲述中国扶贫故事！</desc>
+    <credits>
+      <director>周劼</director>
+    </credits>
+    <date>2020-01-17</date>
+    <category lang="zh">电影</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308074000 +0800" stop="20240308120000 +0800" channel="shanxi1">
-    <title lang="zh">民生大剧场:地雷英雄传29-31</title>
+  <programme start="20240309074000 +0800" stop="20240309120000 +0800" channel="shanxi1">
+    <title lang="zh">民生大剧场:地雷英雄传32-34</title>
     <desc lang="zh">1943年，日本对我华北地区疯狂扫荡。平谷县赵家村热血青年赵震天组织群众奋起抵抗，他们在八路军女政委苏彤和炸弹专家雷文俊的感召和帮助下，建立起平谷县第一支抗日游击队。赵震天用地雷战法，在华北一带声名大震。赵震天带领下的地雷英雄们在这场保卫家乡、保卫人民的战争中，英勇战斗，不畏牺牲。</desc>
     <credits>
       <director>三丑</director>
@@ -728,7 +687,7 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308120000 +0800" stop="20240308125000 +0800" channel="shanxi1">
+  <programme start="20240309120000 +0800" stop="20240309125000 +0800" channel="shanxi1">
     <title lang="zh">黄河新闻</title>
     <desc lang="zh">了解最新新闻资讯。</desc>
     <credits>
@@ -737,14 +696,14 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308125000 +0800" stop="20240308151000 +0800" channel="shanxi1">
+  <programme start="20240309125000 +0800" stop="20240309151000 +0800" channel="shanxi1">
     <title lang="zh">谁是高手双升</title>
     <desc lang="zh">《谁是高手》是一档电视和棋牌网络游戏强强联手，电视观众和网民共同参与的新型娱乐互动类节目。以受众参加网络双升游戏结合线下海选为手段，以电视屏幕为载体，让受众通过参与普及度很高的棋牌类网络游戏比赛融入节目，达到益智娱乐、又扬名网络和电视，同时结交朋友的目的。节目具有网络双升游戏的粘性及传统电视媒体的权威性等多位一体的综合属性。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308151000 +0800" stop="20240308174000 +0800" channel="shanxi1">
-    <title lang="zh">午后剧场:三进山城21-22</title>
+  <programme start="20240309151000 +0800" stop="20240309174000 +0800" channel="shanxi1">
+    <title lang="zh">午后剧场:三进山城23-24</title>
     <desc lang="zh">《三进山城》改编于50年前家喻户晓的同名电影。该剧讲述了抗战时期，八路军欲夺回日军占领的军事要地齐阳城，派侦察员刘宏志几次侨装前往，恢复瘫痪的交通站、除掉叛乱、摧毁日军生化武器、寻找并炸掉弹药库，与鬼子、伪军、汉奸等几路敌人周旋、斗智斗勇，历经曲折、几度陷入险境，以少胜多，终于全歼日军、解放山城。</desc>
     <credits>
       <director>卫翰韬</director>
@@ -763,13 +722,19 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308174000 +0800" stop="20240308185000 +0800" channel="shanxi1">
+  <programme start="20240309174000 +0800" stop="20240309181800 +0800" channel="shanxi1">
     <title lang="zh">谁是高手双升</title>
     <desc lang="zh">《谁是高手》是一档电视和棋牌网络游戏强强联手，电视观众和网民共同参与的新型娱乐互动类节目。以受众参加网络双升游戏结合线下海选为手段，以电视屏幕为载体，让受众通过参与普及度很高的棋牌类网络游戏比赛融入节目，达到益智娱乐、又扬名网络和电视，同时结交朋友的目的。节目具有网络双升游戏的粘性及传统电视媒体的权威性等多位一体的综合属性。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308185000 +0800" stop="20240308194500 +0800" channel="shanxi1">
+  <programme start="20240309181800 +0800" stop="20240309185000 +0800" channel="shanxi1">
+    <title lang="zh">专家来了</title>
+    <desc lang="zh">名医汇聚演播室，为您的健康人生保驾护航！</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309185000 +0800" stop="20240309194500 +0800" channel="shanxi1">
     <title lang="zh">黄河新闻</title>
     <desc lang="zh">了解最新新闻资讯。</desc>
     <credits>
@@ -778,8 +743,8 @@
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308194500 +0800" stop="20240308220300 +0800" channel="shanxi1">
-    <title lang="zh">黄河大剧场:桃花依旧笑春风40-42</title>
+  <programme start="20240309194500 +0800" stop="20240309220200 +0800" channel="shanxi1">
+    <title lang="zh">黄河大剧场:桃花依旧笑春风43-45</title>
     <desc lang="zh">一九二五年军阀割据，西部古城军阀贺闯家被灭门，女儿贺桃花死里逃生，只身逃往省城在一个廖姓人家里做佣人，聪明伶俐的桃花深得廖家老爷喜欢，并且与廖家大少爷廖春风相爱。婚礼前，廖春风发现桃花竟然是宝鸡军阀贺闯的女儿，春风对于杀死桃花父亲的心结始终无法释然，于是将自己是桃花杀父仇人之事告诉了桃花，投奔战场。桃花放弃一切仇恨去寻找廖春风，桃花找到被共产党救下的廖春风，和他一起英勇杀敌，最终壮烈牺牲。</desc>
     <credits>
       <director>张汉杰</director>
@@ -802,24 +767,20 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308220300 +0800" stop="20240308231000 +0800" channel="shanxi1">
-    <title lang="zh">星光</title>
-    <desc lang="zh">一个萦绕中国人心头千年的梦想，如今实现在即。中国电影人再度集结，走过万水千山为你讲述中国扶贫故事！</desc>
-    <credits>
-      <director>周劼</director>
-    </credits>
-    <date>2020-01-17</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">中国大陆</country>
+  <programme start="20240309220200 +0800" stop="20240309235900 +0800" channel="shanxi1">
+    <title lang="zh">群星璀璨</title>
+    <desc lang="zh">《群星璀璨》一档精彩的综艺节目。</desc>
+    <category lang="zh">综艺</category>
+    <country lang="zh"></country>
   </programme>
-  <programme start="20240308231000 +0800" stop="20240309003300 +0800" channel="shanxi1">
+  <programme start="20240309235900 +0800" stop="20240310012100 +0800" channel="shanxi1">
     <title lang="zh">谁是高手双升</title>
     <desc lang="zh">《谁是高手》是一档电视和棋牌网络游戏强强联手，电视观众和网民共同参与的新型娱乐互动类节目。以受众参加网络双升游戏结合线下海选为手段，以电视屏幕为载体，让受众通过参与普及度很高的棋牌类网络游戏比赛融入节目，达到益智娱乐、又扬名网络和电视，同时结交朋友的目的。节目具有网络双升游戏的粘性及传统电视媒体的权威性等多位一体的综合属性。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309003300 +0800" stop="20240309052500 +0800" channel="shanxi1">
-    <title lang="zh">夜黄河剧场:有你才幸福18-22</title>
+  <programme start="20240310012100 +0800" stop="20240310052500 +0800" channel="shanxi1">
+    <title lang="zh">夜黄河剧场:有你才幸福23-27</title>
     <desc lang="zh">住在老北京四合院的祺瑞年晚年不得安生，相濡以沫的老伴罹患晚期癌症撒手人寰，老宅拆迁以及赔偿款问题又让心怀鬼胎的儿女们搅出无数是非。看尽世态炎凉、失去了人生方向的老人在票友唱戏的时候结识了比自己年龄小许多的宋茹君，宋的温柔体贴、善解人意给了这个孤独的老人以莫大的安慰。</desc>
     <credits>
       <director>王瑞</director>
@@ -836,27 +797,27 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308053000 +0800" stop="20240308054600 +0800" channel="shanxi2">
+  <programme start="20240309053000 +0800" stop="20240309054600 +0800" channel="shanxi2">
     <title lang="zh">经济30分之看天下</title>
   </programme>
-  <programme start="20240308054600 +0800" stop="20240308061100 +0800" channel="shanxi2">
+  <programme start="20240309054600 +0800" stop="20240309061600 +0800" channel="shanxi2">
     <title lang="zh">科学动物园</title>
     <desc lang="zh">动物管理员与动物们的愉快故事。</desc>
     <date>2015-11-30</date>
     <category lang="zh">少儿</category>
     <country lang="zh">捷克</country>
   </programme>
-  <programme start="20240308061100 +0800" stop="20240308062800 +0800" channel="shanxi2">
+  <programme start="20240309061600 +0800" stop="20240309063100 +0800" channel="shanxi2">
     <title lang="zh">潮科技</title>
   </programme>
-  <programme start="20240308062800 +0800" stop="20240308074300 +0800" channel="shanxi2">
+  <programme start="20240309063100 +0800" stop="20240309074700 +0800" channel="shanxi2">
     <title lang="zh">致富经</title>
     <desc lang="zh">《致富经》讲述的是启迪智慧、更新观念的财富故事，推广的是如何把握身边商机的经验，而不是致富项目。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308074300 +0800" stop="20240308112700 +0800" channel="shanxi2">
-    <title lang="zh">上午剧场:潜伏在黎明之前45、46、47</title>
+  <programme start="20240309074700 +0800" stop="20240309112700 +0800" channel="shanxi2">
+    <title lang="zh">上午剧场:潜伏在黎明之前48、49、50</title>
     <desc lang="zh">1947年夏，人民解放军转入战略反攻，国民党军被迫向南收缩，以图与解放军进行总决战。战守平之弟战守安，长期潜伏在旅营保密局特别督导室，因战守平起义而受株连，被迫流落广州，幸得地下党员秦风及刘义雄以生命掩护才得以转危为安。国民党为挽回颓势，在我军上层隐藏了一张间谍网。</desc>
     <credits>
       <director>余丁</director>
@@ -877,36 +838,36 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308112700 +0800" stop="20240308120800 +0800" channel="shanxi2">
+  <programme start="20240309112700 +0800" stop="20240309120300 +0800" channel="shanxi2">
     <title lang="zh">生命缘</title>
   </programme>
-  <programme start="20240308120800 +0800" stop="20240308123200 +0800" channel="shanxi2">
+  <programme start="20240309120300 +0800" stop="20240309122700 +0800" channel="shanxi2">
     <title lang="zh">科学动物园</title>
     <desc lang="zh">动物管理员与动物们的愉快故事。</desc>
     <date>2015-11-30</date>
     <category lang="zh">少儿</category>
     <country lang="zh">捷克</country>
   </programme>
-  <programme start="20240308123200 +0800" stop="20240308130200 +0800" channel="shanxi2">
+  <programme start="20240309122700 +0800" stop="20240309130100 +0800" channel="shanxi2">
     <title lang="zh">经济30分</title>
     <desc lang="zh">经济30分。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308130200 +0800" stop="20240308132700 +0800" channel="shanxi2">
+  <programme start="20240309130100 +0800" stop="20240309132100 +0800" channel="shanxi2">
     <title lang="zh">奋晋者说</title>
     <desc lang="zh">致力推动山西质量、山西品牌、山西文化的发展。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308132700 +0800" stop="20240308134800 +0800" channel="shanxi2">
-    <title lang="zh">发现山西</title>
-    <desc lang="zh">山西英语新闻节目《Exploring Shanxi 发现山西》。</desc>
+  <programme start="20240309132100 +0800" stop="20240309135400 +0800" channel="shanxi2">
+    <title lang="zh">致富经</title>
+    <desc lang="zh">《致富经》讲述的是启迪智慧、更新观念的财富故事，推广的是如何把握身边商机的经验，而不是致富项目。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308134800 +0800" stop="20240308181400 +0800" channel="shanxi2">
-    <title lang="zh">下午剧场:正者无敌15、16、17、18</title>
+  <programme start="20240309135400 +0800" stop="20240309181300 +0800" channel="shanxi2">
+    <title lang="zh">下午剧场:正者无敌19、20、21、22</title>
     <desc lang="zh">冯天魁是川军永州守备司令兼66师师长，作为兵家必争之地的一地长官，冯天魁掌握着重兵之权，国民党反动势力、日本侵略者等各方势力都对他虎视眈眈。在危机四伏的情况下，冯天魁步步为营，粉碎了敌人一次又一次的阴谋诡计。抗战爆发后，冯天魁率领川军走出四川，坚持抗战。台儿庄大战爆发，川军在兵力不足，武器弹药匮乏的劣势下，和日军战斗了七天七夜，冯天魁壮烈牺牲。川军的顽强抵抗，为台儿庄大战赢得了时间。</desc>
     <credits>
       <director>张国庆</director>
@@ -927,419 +888,47 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308181400 +0800" stop="20240308184200 +0800" channel="shanxi2">
-    <title lang="zh">一起健康吧</title>
-    <desc lang="zh">生活健康栏目，讲解日常健康常识。</desc>
+  <programme start="20240309181300 +0800" stop="20240309185100 +0800" channel="shanxi2">
+    <title lang="zh">生命缘</title>
+  </programme>
+  <programme start="20240309185100 +0800" stop="20240309191300 +0800" channel="shanxi2">
+    <title lang="zh">潮科技</title>
+  </programme>
+  <programme start="20240309191300 +0800" stop="20240309193900 +0800" channel="shanxi2">
+    <title lang="zh">科技潮生活</title>
+    <desc lang="zh">科技潮生活</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308184200 +0800" stop="20240308193100 +0800" channel="shanxi2">
-    <title lang="zh">生命缘</title>
-  </programme>
-  <programme start="20240308193100 +0800" stop="20240308200000 +0800" channel="shanxi2">
+  <programme start="20240309193900 +0800" stop="20240309200000 +0800" channel="shanxi2">
     <title lang="zh">经济30分之看天下</title>
   </programme>
-  <programme start="20240308200000 +0800" stop="20240308203300 +0800" channel="shanxi2">
+  <programme start="20240309200000 +0800" stop="20240309203300 +0800" channel="shanxi2">
     <title lang="zh">经济30分</title>
     <desc lang="zh">经济30分。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308203300 +0800" stop="20240308205500 +0800" channel="shanxi2">
+  <programme start="20240309203300 +0800" stop="20240309205500 +0800" channel="shanxi2">
     <title lang="zh">经济30分之看天下</title>
   </programme>
-  <programme start="20240308205500 +0800" stop="20240308210000 +0800" channel="shanxi2">
+  <programme start="20240309205500 +0800" stop="20240309210000 +0800" channel="shanxi2">
     <title lang="zh">理论天天学</title>
     <desc lang="zh">理论天天学</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308210000 +0800" stop="20240308212900 +0800" channel="shanxi2">
+  <programme start="20240309210000 +0800" stop="20240309212900 +0800" channel="shanxi2">
     <title lang="zh">山西新闻联播</title>
     <desc lang="zh">山西新闻联播。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308212900 +0800" stop="20240308234500 +0800" channel="shanxi2">
-    <title lang="zh">经典剧场:人世间56、57</title>
-    <desc lang="zh">上世纪七十年代末，北方某省会城市“光字片”区居住着周姓一家，父亲周志刚在西南参加“大三线”建设，长子周秉义响应国家号召成为第一批下乡知青，长女周蓉追随诗人丈夫远赴贵州乡村。在五十年的岁月里周家人的命运与时代变迁交织在一起，周秉义大学毕业后从政。周蓉获得博士学位后留校任教，阴差阳错旅居法国十二年。周秉昆与美丽又不幸的女子郑娟相濡以沫，一家人在完成各自人生使命的同时，也书写了一部当代中国百姓的生活史诗  。</desc>
-    <credits>
-      <director>李路</director>
-      <actor>雷佳音</actor>
-      <actor>辛柏青</actor>
-      <actor>宋佳</actor>
-      <actor>殷桃</actor>
-      <actor>丁勇岱</actor>
-      <actor>成泰燊</actor>
-      <actor>萨日娜</actor>
-      <writer>雷佳音</writer>
-      <writer>辛柏青</writer>
-      <writer>宋佳</writer>
-      <writer>殷桃</writer>
-      <writer>丁勇岱</writer>
-      <writer>成泰燊</writer>
-      <writer>萨日娜</writer>
-    </credits>
-    <date>2022-01-28</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
+  <programme start="20240309212900 +0800" stop="20240309234500 +0800" channel="shanxi2">
+    <title lang="zh">经典剧场:人世间58大西北剿匪记1</title>
   </programme>
-  <programme start="20240308234500 +0800" stop="20240309000000 +0800" channel="shanxi2">
+  <programme start="20240309234500 +0800" stop="20240310053000 +0800" channel="shanxi2">
     <title lang="zh">生命缘</title>
-  </programme>
-  <programme start="20240309000000 +0800" stop="20240309002000 +0800" channel="shanxi2">
-    <title lang="zh">全方位推动高质量发展透视</title>
-    <desc lang="zh">全方位推动高质量发展要以“全方位推动”为横向维度，以“高质量发展”为纵向标尺，形成经济、政治、文化、社会、生态文明建设、党的建设等“六个领域”和适应、反映、引领高质量发展的目标和标准、任务和举措、政策和制度等“三个体系”全面贯通、深度协同的工作矩阵。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240309002000 +0800" stop="20240309003500 +0800" channel="shanxi2">
-    <title lang="zh">经济30分之看天下</title>
-  </programme>
-  <programme start="20240309003500 +0800" stop="20240309053000 +0800" channel="shanxi2">
-    <title lang="zh">经济30分</title>
-    <desc lang="zh">经济30分。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308004500 +0800" stop="20240308020500 +0800" channel="shanxi3">
-    <title lang="zh">战火中的兄弟02</title>
-    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
-    <credits>
-      <director>寇占文</director>
-      <actor>曹炳琨</actor>
-      <actor>原雨</actor>
-      <actor>胡亚捷</actor>
-      <actor>石兆琪</actor>
-      <actor>高艺涵</actor>
-      <writer>曹炳琨</writer>
-      <writer>原雨</writer>
-      <writer>胡亚捷</writer>
-      <writer>石兆琪</writer>
-      <writer>高艺涵</writer>
-    </credits>
-    <date>2017-02-03</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308020500 +0800" stop="20240308024500 +0800" channel="shanxi3">
-    <title lang="zh">传奇英雄07</title>
-    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
-    <credits>
-      <director>海顿</director>
-      <actor>海顿</actor>
-      <actor>杨童舒</actor>
-      <actor>颜丹晨</actor>
-      <actor>王海地</actor>
-      <actor>郭铁城</actor>
-      <actor>赵丽娟</actor>
-      <writer>海顿</writer>
-      <writer>杨童舒</writer>
-      <writer>颜丹晨</writer>
-      <writer>王海地</writer>
-      <writer>郭铁城</writer>
-      <writer>赵丽娟</writer>
-    </credits>
-    <date>2013-05-20</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308024500 +0800" stop="20240308032500 +0800" channel="shanxi3">
-    <title lang="zh">传奇英雄08</title>
-    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
-    <credits>
-      <director>海顿</director>
-      <actor>海顿</actor>
-      <actor>杨童舒</actor>
-      <actor>颜丹晨</actor>
-      <actor>王海地</actor>
-      <actor>郭铁城</actor>
-      <actor>赵丽娟</actor>
-      <writer>海顿</writer>
-      <writer>杨童舒</writer>
-      <writer>颜丹晨</writer>
-      <writer>王海地</writer>
-      <writer>郭铁城</writer>
-      <writer>赵丽娟</writer>
-    </credits>
-    <date>2013-05-20</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308032500 +0800" stop="20240308041500 +0800" channel="shanxi3">
-    <title lang="zh">传奇英雄09</title>
-    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
-    <credits>
-      <director>海顿</director>
-      <actor>海顿</actor>
-      <actor>杨童舒</actor>
-      <actor>颜丹晨</actor>
-      <actor>王海地</actor>
-      <actor>郭铁城</actor>
-      <actor>赵丽娟</actor>
-      <writer>海顿</writer>
-      <writer>杨童舒</writer>
-      <writer>颜丹晨</writer>
-      <writer>王海地</writer>
-      <writer>郭铁城</writer>
-      <writer>赵丽娟</writer>
-    </credits>
-    <date>2013-05-20</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308041500 +0800" stop="20240308045500 +0800" channel="shanxi3">
-    <title lang="zh">传奇英雄10</title>
-    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
-    <credits>
-      <director>海顿</director>
-      <actor>海顿</actor>
-      <actor>杨童舒</actor>
-      <actor>颜丹晨</actor>
-      <actor>王海地</actor>
-      <actor>郭铁城</actor>
-      <actor>赵丽娟</actor>
-      <writer>海顿</writer>
-      <writer>杨童舒</writer>
-      <writer>颜丹晨</writer>
-      <writer>王海地</writer>
-      <writer>郭铁城</writer>
-      <writer>赵丽娟</writer>
-    </credits>
-    <date>2013-05-20</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308045500 +0800" stop="20240308053500 +0800" channel="shanxi3">
-    <title lang="zh">亮剑铁血军魂28</title>
-    <desc lang="zh">毕业于日本陆军士官学校的前清贝勒瑞年返回天津参加抗战。在日军的进攻和内奸的破坏下，鲁西失守，冯竞先殉国，瑞年和恋人淑娟几经周折后投身于八路军中。瑞年渐渐认识到中国共产党的先进性和坚强的抗日决心，成长为一名光荣的共产主义战士和八路军高级指挥员，并在战场上为中华民族的正义之战，做出了自己的贡献。</desc>
-    <credits>
-      <director>金霖</director>
-      <actor>刘屹宸</actor>
-      <actor>章贺</actor>
-      <actor>李曼</actor>
-      <actor>刘冠翔</actor>
-      <writer>刘屹宸</writer>
-      <writer>章贺</writer>
-      <writer>李曼</writer>
-      <writer>刘冠翔</writer>
-    </credits>
-    <date>2017-04-02</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308053500 +0800" stop="20240308070000 +0800" channel="shanxi3">
-    <title lang="zh">亮剑铁血军魂29</title>
-    <desc lang="zh">毕业于日本陆军士官学校的前清贝勒瑞年返回天津参加抗战。在日军的进攻和内奸的破坏下，鲁西失守，冯竞先殉国，瑞年和恋人淑娟几经周折后投身于八路军中。瑞年渐渐认识到中国共产党的先进性和坚强的抗日决心，成长为一名光荣的共产主义战士和八路军高级指挥员，并在战场上为中华民族的正义之战，做出了自己的贡献。</desc>
-    <credits>
-      <director>金霖</director>
-      <actor>刘屹宸</actor>
-      <actor>章贺</actor>
-      <actor>李曼</actor>
-      <actor>刘冠翔</actor>
-      <writer>刘屹宸</writer>
-      <writer>章贺</writer>
-      <writer>李曼</writer>
-      <writer>刘冠翔</writer>
-    </credits>
-    <date>2017-04-02</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308070000 +0800" stop="20240308073500 +0800" channel="shanxi3">
-    <title lang="zh">我的选择</title>
-    <desc lang="zh">《女神的选择》是由乐视视频、东方娱乐联合出品的一档国内明星与素人户外婚恋真人秀节目。节目中张柏芝、王心凌、柳岩三位女神与素人男嘉宾展开一段情感体验之旅，明道、沈梦辰、大王三位明星闺蜜倾力加盟，重现女神恋爱观，展现亲和力，以及不为人知的另一面。</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308073500 +0800" stop="20240308085000 +0800" channel="shanxi3">
-    <title lang="zh">东北剿匪记精编05</title>
-  </programme>
-  <programme start="20240308085000 +0800" stop="20240308101000 +0800" channel="shanxi3">
-    <title lang="zh">东北剿匪记精编06</title>
-  </programme>
-  <programme start="20240308101000 +0800" stop="20240308112000 +0800" channel="shanxi3">
-    <title lang="zh">东北剿匪记精编07</title>
-  </programme>
-  <programme start="20240308112000 +0800" stop="20240308122000 +0800" channel="shanxi3">
-    <title lang="zh">谢谢你来了</title>
-    <desc lang="zh">节目聚焦中国梦的时代主题，通过讲述普通人青春奋斗、青春经历的人生故事，围绕“感恩”“道歉”“爱”“梦想”等主题，展示关于青春的理想、奋斗、事业、困惑的心路历程，为我们展示一代代人特别是当代年轻人的青春历程、记忆，讴歌青春，传播正能量。</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308122000 +0800" stop="20240308125000 +0800" channel="shanxi3">
-    <title lang="zh">影迷来了</title>
-    <desc lang="zh">山西电视台影视频道《影迷来了》</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308125000 +0800" stop="20240308140500 +0800" channel="shanxi3">
-    <title lang="zh">烈火精编25</title>
-  </programme>
-  <programme start="20240308140500 +0800" stop="20240308152000 +0800" channel="shanxi3">
-    <title lang="zh">烈火精编26</title>
-  </programme>
-  <programme start="20240308152000 +0800" stop="20240308164000 +0800" channel="shanxi3">
-    <title lang="zh">烈火精编27</title>
-  </programme>
-  <programme start="20240308164000 +0800" stop="20240308175000 +0800" channel="shanxi3">
-    <title lang="zh">烈火精编28</title>
-  </programme>
-  <programme start="20240308175000 +0800" stop="20240308184000 +0800" channel="shanxi3">
-    <title lang="zh">我的选择</title>
-    <desc lang="zh">《女神的选择》是由乐视视频、东方娱乐联合出品的一档国内明星与素人户外婚恋真人秀节目。节目中张柏芝、王心凌、柳岩三位女神与素人男嘉宾展开一段情感体验之旅，明道、沈梦辰、大王三位明星闺蜜倾力加盟，重现女神恋爱观，展现亲和力，以及不为人知的另一面。</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308184000 +0800" stop="20240308194000 +0800" channel="shanxi3">
-    <title lang="zh">老虎队39</title>
-    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
-    <credits>
-      <director>陈健</director>
-      <actor>李健</actor>
-      <actor>王珂</actor>
-      <actor>韩宇辰</actor>
-      <actor>李牵</actor>
-      <actor>张子君</actor>
-      <actor>王新军</actor>
-      <writer>李健</writer>
-      <writer>王珂</writer>
-      <writer>韩宇辰</writer>
-      <writer>李牵</writer>
-      <writer>张子君</writer>
-      <writer>王新军</writer>
-    </credits>
-    <date>2019-06-14</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308194000 +0800" stop="20240308204000 +0800" channel="shanxi3">
-    <title lang="zh">老虎队40</title>
-    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
-    <credits>
-      <director>陈健</director>
-      <actor>李健</actor>
-      <actor>王珂</actor>
-      <actor>韩宇辰</actor>
-      <actor>李牵</actor>
-      <actor>张子君</actor>
-      <actor>王新军</actor>
-      <writer>李健</writer>
-      <writer>王珂</writer>
-      <writer>韩宇辰</writer>
-      <writer>李牵</writer>
-      <writer>张子君</writer>
-      <writer>王新军</writer>
-    </credits>
-    <date>2019-06-14</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308204000 +0800" stop="20240308214000 +0800" channel="shanxi3">
-    <title lang="zh">老虎队41</title>
-    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
-    <credits>
-      <director>陈健</director>
-      <actor>李健</actor>
-      <actor>王珂</actor>
-      <actor>韩宇辰</actor>
-      <actor>李牵</actor>
-      <actor>张子君</actor>
-      <actor>王新军</actor>
-      <writer>李健</writer>
-      <writer>王珂</writer>
-      <writer>韩宇辰</writer>
-      <writer>李牵</writer>
-      <writer>张子君</writer>
-      <writer>王新军</writer>
-    </credits>
-    <date>2019-06-14</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308214000 +0800" stop="20240308223000 +0800" channel="shanxi3">
-    <title lang="zh">老虎队42</title>
-    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
-    <credits>
-      <director>陈健</director>
-      <actor>李健</actor>
-      <actor>王珂</actor>
-      <actor>韩宇辰</actor>
-      <actor>李牵</actor>
-      <actor>张子君</actor>
-      <actor>王新军</actor>
-      <writer>李健</writer>
-      <writer>王珂</writer>
-      <writer>韩宇辰</writer>
-      <writer>李牵</writer>
-      <writer>张子君</writer>
-      <writer>王新军</writer>
-    </credits>
-    <date>2019-06-14</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308223000 +0800" stop="20240308231500 +0800" channel="shanxi3">
-    <title lang="zh">老虎队43</title>
-    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
-    <credits>
-      <director>陈健</director>
-      <actor>李健</actor>
-      <actor>王珂</actor>
-      <actor>韩宇辰</actor>
-      <actor>李牵</actor>
-      <actor>张子君</actor>
-      <actor>王新军</actor>
-      <writer>李健</writer>
-      <writer>王珂</writer>
-      <writer>韩宇辰</writer>
-      <writer>李牵</writer>
-      <writer>张子君</writer>
-      <writer>王新军</writer>
-    </credits>
-    <date>2019-06-14</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308231500 +0800" stop="20240308235900 +0800" channel="shanxi3">
-    <title lang="zh">战火中的兄弟03</title>
-    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
-    <credits>
-      <director>寇占文</director>
-      <actor>曹炳琨</actor>
-      <actor>原雨</actor>
-      <actor>胡亚捷</actor>
-      <actor>石兆琪</actor>
-      <actor>高艺涵</actor>
-      <writer>曹炳琨</writer>
-      <writer>原雨</writer>
-      <writer>胡亚捷</writer>
-      <writer>石兆琪</writer>
-      <writer>高艺涵</writer>
-    </credits>
-    <date>2017-02-03</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308235900 +0800" stop="20240309004500 +0800" channel="shanxi3">
-    <title lang="zh">战火中的兄弟04</title>
-    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
-    <credits>
-      <director>寇占文</director>
-      <actor>曹炳琨</actor>
-      <actor>原雨</actor>
-      <actor>胡亚捷</actor>
-      <actor>石兆琪</actor>
-      <actor>高艺涵</actor>
-      <writer>曹炳琨</writer>
-      <writer>原雨</writer>
-      <writer>胡亚捷</writer>
-      <writer>石兆琪</writer>
-      <writer>高艺涵</writer>
-    </credits>
-    <date>2017-02-03</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
   </programme>
   <programme start="20240309004500 +0800" stop="20240309020500 +0800" channel="shanxi3">
     <title lang="zh">战火中的兄弟05</title>
@@ -1405,82 +994,356 @@
     <category lang="zh">电视剧</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308001500 +0800" stop="20240308012000 +0800" channel="shanxi4">
+  <programme start="20240309032500 +0800" stop="20240309041500 +0800" channel="shanxi3">
+    <title lang="zh">传奇英雄13</title>
+    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
+    <credits>
+      <director>海顿</director>
+      <actor>海顿</actor>
+      <actor>杨童舒</actor>
+      <actor>颜丹晨</actor>
+      <actor>王海地</actor>
+      <actor>郭铁城</actor>
+      <actor>赵丽娟</actor>
+      <writer>海顿</writer>
+      <writer>杨童舒</writer>
+      <writer>颜丹晨</writer>
+      <writer>王海地</writer>
+      <writer>郭铁城</writer>
+      <writer>赵丽娟</writer>
+    </credits>
+    <date>2013-05-20</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309041500 +0800" stop="20240309045500 +0800" channel="shanxi3">
+    <title lang="zh">传奇英雄14</title>
+    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
+    <credits>
+      <director>海顿</director>
+      <actor>海顿</actor>
+      <actor>杨童舒</actor>
+      <actor>颜丹晨</actor>
+      <actor>王海地</actor>
+      <actor>郭铁城</actor>
+      <actor>赵丽娟</actor>
+      <writer>海顿</writer>
+      <writer>杨童舒</writer>
+      <writer>颜丹晨</writer>
+      <writer>王海地</writer>
+      <writer>郭铁城</writer>
+      <writer>赵丽娟</writer>
+    </credits>
+    <date>2013-05-20</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309045500 +0800" stop="20240309053500 +0800" channel="shanxi3">
+    <title lang="zh">亮剑铁血军魂30</title>
+    <desc lang="zh">毕业于日本陆军士官学校的前清贝勒瑞年返回天津参加抗战。在日军的进攻和内奸的破坏下，鲁西失守，冯竞先殉国，瑞年和恋人淑娟几经周折后投身于八路军中。瑞年渐渐认识到中国共产党的先进性和坚强的抗日决心，成长为一名光荣的共产主义战士和八路军高级指挥员，并在战场上为中华民族的正义之战，做出了自己的贡献。</desc>
+    <credits>
+      <director>金霖</director>
+      <actor>刘屹宸</actor>
+      <actor>章贺</actor>
+      <actor>李曼</actor>
+      <actor>刘冠翔</actor>
+      <writer>刘屹宸</writer>
+      <writer>章贺</writer>
+      <writer>李曼</writer>
+      <writer>刘冠翔</writer>
+    </credits>
+    <date>2017-04-02</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309053500 +0800" stop="20240309070000 +0800" channel="shanxi3">
+    <title lang="zh">亮剑铁血军魂31</title>
+    <desc lang="zh">毕业于日本陆军士官学校的前清贝勒瑞年返回天津参加抗战。在日军的进攻和内奸的破坏下，鲁西失守，冯竞先殉国，瑞年和恋人淑娟几经周折后投身于八路军中。瑞年渐渐认识到中国共产党的先进性和坚强的抗日决心，成长为一名光荣的共产主义战士和八路军高级指挥员，并在战场上为中华民族的正义之战，做出了自己的贡献。</desc>
+    <credits>
+      <director>金霖</director>
+      <actor>刘屹宸</actor>
+      <actor>章贺</actor>
+      <actor>李曼</actor>
+      <actor>刘冠翔</actor>
+      <writer>刘屹宸</writer>
+      <writer>章贺</writer>
+      <writer>李曼</writer>
+      <writer>刘冠翔</writer>
+    </credits>
+    <date>2017-04-02</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309070000 +0800" stop="20240309073500 +0800" channel="shanxi3">
+    <title lang="zh">我的选择</title>
+    <desc lang="zh">《女神的选择》是由乐视视频、东方娱乐联合出品的一档国内明星与素人户外婚恋真人秀节目。节目中张柏芝、王心凌、柳岩三位女神与素人男嘉宾展开一段情感体验之旅，明道、沈梦辰、大王三位明星闺蜜倾力加盟，重现女神恋爱观，展现亲和力，以及不为人知的另一面。</desc>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309073500 +0800" stop="20240309085000 +0800" channel="shanxi3">
+    <title lang="zh">东北剿匪记精编08</title>
+  </programme>
+  <programme start="20240309085000 +0800" stop="20240309101000 +0800" channel="shanxi3">
+    <title lang="zh">东北剿匪记精编09</title>
+  </programme>
+  <programme start="20240309101000 +0800" stop="20240309112000 +0800" channel="shanxi3">
+    <title lang="zh">东北剿匪记精编10</title>
+  </programme>
+  <programme start="20240309112000 +0800" stop="20240309125000 +0800" channel="shanxi3">
+    <title lang="zh">谢谢你来了</title>
+    <desc lang="zh">节目聚焦中国梦的时代主题，通过讲述普通人青春奋斗、青春经历的人生故事，围绕“感恩”“道歉”“爱”“梦想”等主题，展示关于青春的理想、奋斗、事业、困惑的心路历程，为我们展示一代代人特别是当代年轻人的青春历程、记忆，讴歌青春，传播正能量。</desc>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309125000 +0800" stop="20240309140500 +0800" channel="shanxi3">
+    <title lang="zh">烈火精编29</title>
+  </programme>
+  <programme start="20240309140500 +0800" stop="20240309152000 +0800" channel="shanxi3">
+    <title lang="zh">烈火精编30</title>
+  </programme>
+  <programme start="20240309152000 +0800" stop="20240309164000 +0800" channel="shanxi3">
+    <title lang="zh">烈火精编31</title>
+  </programme>
+  <programme start="20240309164000 +0800" stop="20240309175000 +0800" channel="shanxi3">
+    <title lang="zh">烈火精编32</title>
+  </programme>
+  <programme start="20240309175000 +0800" stop="20240309184000 +0800" channel="shanxi3">
+    <title lang="zh">我的选择</title>
+    <desc lang="zh">《女神的选择》是由乐视视频、东方娱乐联合出品的一档国内明星与素人户外婚恋真人秀节目。节目中张柏芝、王心凌、柳岩三位女神与素人男嘉宾展开一段情感体验之旅，明道、沈梦辰、大王三位明星闺蜜倾力加盟，重现女神恋爱观，展现亲和力，以及不为人知的另一面。</desc>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309184000 +0800" stop="20240309194000 +0800" channel="shanxi3">
+    <title lang="zh">老虎队44</title>
+    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
+    <credits>
+      <director>陈健</director>
+      <actor>李健</actor>
+      <actor>王珂</actor>
+      <actor>韩宇辰</actor>
+      <actor>李牵</actor>
+      <actor>张子君</actor>
+      <actor>王新军</actor>
+      <writer>李健</writer>
+      <writer>王珂</writer>
+      <writer>韩宇辰</writer>
+      <writer>李牵</writer>
+      <writer>张子君</writer>
+      <writer>王新军</writer>
+    </credits>
+    <date>2019-06-14</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309194000 +0800" stop="20240309204000 +0800" channel="shanxi3">
+    <title lang="zh">老虎队45</title>
+    <desc lang="zh">1948年9月，人民解放军攻打济南城，华东野战军某纵队团长毛宝奉命组建“老虎队”，淮海战役打响，老虎队作为先锋部队，先后攻克了新安镇、碾庄圩，击毙了黄百韬。老虎队攻打徐州城，毛宝和好友陆胜文再次相遇，毛宝深入虎穴劝说陆胜文起义，陆胜文弃暗投明，兄弟再次联手，消灭了杜聿明的部队，我军赢得了淮海战役的胜利，老虎队的战士们在战斗中一个个牺牲，成为了建国史上的英雄。</desc>
+    <credits>
+      <director>陈健</director>
+      <actor>李健</actor>
+      <actor>王珂</actor>
+      <actor>韩宇辰</actor>
+      <actor>李牵</actor>
+      <actor>张子君</actor>
+      <actor>王新军</actor>
+      <writer>李健</writer>
+      <writer>王珂</writer>
+      <writer>韩宇辰</writer>
+      <writer>李牵</writer>
+      <writer>张子君</writer>
+      <writer>王新军</writer>
+    </credits>
+    <date>2019-06-14</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309204000 +0800" stop="20240309214000 +0800" channel="shanxi3">
+    <title lang="zh">热血01</title>
+    <desc lang="zh">1937年，日军的铁蹄踏破了江津城池，共产党员秦昊临危受命，潜入江津城，帮助众人从日军的眼皮底下巧妙地秘密转移。尽管转移任务最终完成了，但秦昊共事多年的战友却不幸惨死于日军的枪口之下。几位来自不同家庭的青年人目睹了日军的暴行，被秦昊及其战友的精神与行动所鼓舞，不惜放弃转移机会，追随共产党进行抗日活动。秦昊从悲愤中走出来，引领胡一凡等几位热血青年继续着抗日征程。</desc>
+    <credits>
+      <director>高战</director>
+      <actor>张子健</actor>
+      <actor>吕佳容</actor>
+      <actor>姬他</actor>
+      <actor>麦迪娜</actor>
+      <actor>马敬涵</actor>
+      <writer>张子健</writer>
+      <writer>吕佳容</writer>
+      <writer>姬他</writer>
+      <writer>麦迪娜</writer>
+      <writer>马敬涵</writer>
+    </credits>
+    <date>2016-03-11</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309214000 +0800" stop="20240309223000 +0800" channel="shanxi3">
+    <title lang="zh">热血02</title>
+    <desc lang="zh">1937年，日军的铁蹄踏破了江津城池，共产党员秦昊临危受命，潜入江津城，帮助众人从日军的眼皮底下巧妙地秘密转移。尽管转移任务最终完成了，但秦昊共事多年的战友却不幸惨死于日军的枪口之下。几位来自不同家庭的青年人目睹了日军的暴行，被秦昊及其战友的精神与行动所鼓舞，不惜放弃转移机会，追随共产党进行抗日活动。秦昊从悲愤中走出来，引领胡一凡等几位热血青年继续着抗日征程。</desc>
+    <credits>
+      <director>高战</director>
+      <actor>张子健</actor>
+      <actor>吕佳容</actor>
+      <actor>姬他</actor>
+      <actor>麦迪娜</actor>
+      <actor>马敬涵</actor>
+      <writer>张子健</writer>
+      <writer>吕佳容</writer>
+      <writer>姬他</writer>
+      <writer>麦迪娜</writer>
+      <writer>马敬涵</writer>
+    </credits>
+    <date>2016-03-11</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309223000 +0800" stop="20240309231500 +0800" channel="shanxi3">
+    <title lang="zh">热血03</title>
+    <desc lang="zh">1937年，日军的铁蹄踏破了江津城池，共产党员秦昊临危受命，潜入江津城，帮助众人从日军的眼皮底下巧妙地秘密转移。尽管转移任务最终完成了，但秦昊共事多年的战友却不幸惨死于日军的枪口之下。几位来自不同家庭的青年人目睹了日军的暴行，被秦昊及其战友的精神与行动所鼓舞，不惜放弃转移机会，追随共产党进行抗日活动。秦昊从悲愤中走出来，引领胡一凡等几位热血青年继续着抗日征程。</desc>
+    <credits>
+      <director>高战</director>
+      <actor>张子健</actor>
+      <actor>吕佳容</actor>
+      <actor>姬他</actor>
+      <actor>麦迪娜</actor>
+      <actor>马敬涵</actor>
+      <writer>张子健</writer>
+      <writer>吕佳容</writer>
+      <writer>姬他</writer>
+      <writer>麦迪娜</writer>
+      <writer>马敬涵</writer>
+    </credits>
+    <date>2016-03-11</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309231500 +0800" stop="20240309235900 +0800" channel="shanxi3">
+    <title lang="zh">战火中的兄弟06</title>
+    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
+    <credits>
+      <director>寇占文</director>
+      <actor>曹炳琨</actor>
+      <actor>原雨</actor>
+      <actor>胡亚捷</actor>
+      <actor>石兆琪</actor>
+      <actor>高艺涵</actor>
+      <writer>曹炳琨</writer>
+      <writer>原雨</writer>
+      <writer>胡亚捷</writer>
+      <writer>石兆琪</writer>
+      <writer>高艺涵</writer>
+    </credits>
+    <date>2017-02-03</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309235900 +0800" stop="20240310004500 +0800" channel="shanxi3">
+    <title lang="zh">战火中的兄弟07</title>
+    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
+    <credits>
+      <director>寇占文</director>
+      <actor>曹炳琨</actor>
+      <actor>原雨</actor>
+      <actor>胡亚捷</actor>
+      <actor>石兆琪</actor>
+      <actor>高艺涵</actor>
+      <writer>曹炳琨</writer>
+      <writer>原雨</writer>
+      <writer>胡亚捷</writer>
+      <writer>石兆琪</writer>
+      <writer>高艺涵</writer>
+    </credits>
+    <date>2017-02-03</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310004500 +0800" stop="20240310020500 +0800" channel="shanxi3">
+    <title lang="zh">战火中的兄弟08</title>
+    <desc lang="zh">上世纪三十年代末的江南水乡，民间抗日志士高明远率领的队伍是当地一支著名的抗日力量，在一次劫日军监狱救人行动中，他们偶遇新四军游击队，也遇到了曾经的同学—现任新四军游击队队长的心月。心月欣赏明远的人品和才能，希望明远加入新四军，共同抗日。明远和手下的兄弟们固执地凭借个人的力量对抗日军，险些铸成大错。在心月的帮助下，明远等人认识到自己的鲁莽和任性，幡然悔悟，加入游击队，与心月一起携手作战。</desc>
+    <credits>
+      <director>寇占文</director>
+      <actor>曹炳琨</actor>
+      <actor>原雨</actor>
+      <actor>胡亚捷</actor>
+      <actor>石兆琪</actor>
+      <actor>高艺涵</actor>
+      <writer>曹炳琨</writer>
+      <writer>原雨</writer>
+      <writer>胡亚捷</writer>
+      <writer>石兆琪</writer>
+      <writer>高艺涵</writer>
+    </credits>
+    <date>2017-02-03</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310020500 +0800" stop="20240310024500 +0800" channel="shanxi3">
+    <title lang="zh">传奇英雄15</title>
+    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
+    <credits>
+      <director>海顿</director>
+      <actor>海顿</actor>
+      <actor>杨童舒</actor>
+      <actor>颜丹晨</actor>
+      <actor>王海地</actor>
+      <actor>郭铁城</actor>
+      <actor>赵丽娟</actor>
+      <writer>海顿</writer>
+      <writer>杨童舒</writer>
+      <writer>颜丹晨</writer>
+      <writer>王海地</writer>
+      <writer>郭铁城</writer>
+      <writer>赵丽娟</writer>
+    </credits>
+    <date>2013-05-20</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310024500 +0800" stop="20240310032500 +0800" channel="shanxi3">
+    <title lang="zh">传奇英雄16</title>
+    <desc lang="zh">赵传奇是个血气方刚的汉子，也是个充满智慧的小人物。他的点子出人意表，因有着晋商的思维模式，总是让小鬼子们摸不到他的出招套路。他面对一帮“乌合之众”的属下，一会儿大嗓门激励，一会儿嬉皮笑脸地哄，对付愣的还得连蒙带骗，充分调动每个人的积极性，是个让人欢笑让人愁的活宝。</desc>
+    <credits>
+      <director>海顿</director>
+      <actor>海顿</actor>
+      <actor>杨童舒</actor>
+      <actor>颜丹晨</actor>
+      <actor>王海地</actor>
+      <actor>郭铁城</actor>
+      <actor>赵丽娟</actor>
+      <writer>海顿</writer>
+      <writer>杨童舒</writer>
+      <writer>颜丹晨</writer>
+      <writer>王海地</writer>
+      <writer>郭铁城</writer>
+      <writer>赵丽娟</writer>
+    </credits>
+    <date>2013-05-20</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309001500 +0800" stop="20240309012000 +0800" channel="shanxi4">
     <title lang="zh">第三调解室</title>
+    <desc lang="zh">第三调解室，说法，说理，说亲情。第三调解室是国内第一档具有法律效力的排解矛盾、化解纠纷的电视节目。节目现场将有人民调解员、律师、心理专家为当事人答疑解惑、梳理思绪，促使各方当事人达成调解。节目当场签订人民调解协议书并加盖人民调解公章。协议具有法律效力，当场生效、给法律赋予亲情的温度，给人心注入柔软的力量。</desc>
+    <credits>
+      <director>刘佳</director>
+    </credits>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308012000 +0800" stop="20240308020000 +0800" channel="shanxi4">
+  <programme start="20240309012000 +0800" stop="20240309020000 +0800" channel="shanxi4">
     <title lang="zh">都市110</title>
     <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308020000 +0800" stop="20240308035000 +0800" channel="shanxi4">
+  <programme start="20240309020000 +0800" stop="20240309035000 +0800" channel="shanxi4">
     <title lang="zh">自然档案</title>
-  </programme>
-  <programme start="20240308035000 +0800" stop="20240308052500 +0800" channel="shanxi4">
-    <title lang="zh">健康之路</title>
-  </programme>
-  <programme start="20240308052500 +0800" stop="20240308060800 +0800" channel="shanxi4">
-    <title lang="zh">健康之路</title>
-  </programme>
-  <programme start="20240308060800 +0800" stop="20240308080000 +0800" channel="shanxi4">
-    <title lang="zh">都市110</title>
-    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
-    <category lang="zh">综合</category>
+    <desc lang="zh">《自然档案》百集篇幅讲述了动物的百种超常能力，呈现了千奇百怪的自然世界！</desc>
+    <date>2022-07-05</date>
+    <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308080000 +0800" stop="20240308092000 +0800" channel="shanxi4">
-    <title lang="zh">代号山豹32</title>
-  </programme>
-  <programme start="20240308092000 +0800" stop="20240308103500 +0800" channel="shanxi4">
-    <title lang="zh">代号山豹33</title>
-  </programme>
-  <programme start="20240308103500 +0800" stop="20240308115500 +0800" channel="shanxi4">
-    <title lang="zh">代号山豹34</title>
-  </programme>
-  <programme start="20240308115500 +0800" stop="20240308125500 +0800" channel="shanxi4">
-    <title lang="zh">都市110</title>
-    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308125500 +0800" stop="20240308131800 +0800" channel="shanxi4">
-    <title lang="zh">小郭跑腿</title>
-  </programme>
-  <programme start="20240308131800 +0800" stop="20240308134500 +0800" channel="shanxi4">
-    <title lang="zh">法在身边</title>
-  </programme>
-  <programme start="20240308134500 +0800" stop="20240308163500 +0800" channel="shanxi4">
-    <title lang="zh">桃花朵朵开</title>
-  </programme>
-  <programme start="20240308163500 +0800" stop="20240308180500 +0800" channel="shanxi4">
-    <title lang="zh">出关18</title>
-  </programme>
-  <programme start="20240308180500 +0800" stop="20240308185000 +0800" channel="shanxi4">
-    <title lang="zh">出关19</title>
-  </programme>
-  <programme start="20240308185000 +0800" stop="20240308195000 +0800" channel="shanxi4">
-    <title lang="zh">都市110</title>
-    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
-    <category lang="zh">综合</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308195000 +0800" stop="20240308201200 +0800" channel="shanxi4">
-    <title lang="zh">法在身边</title>
-  </programme>
-  <programme start="20240308201200 +0800" stop="20240308203900 +0800" channel="shanxi4">
-    <title lang="zh">小郭跑腿</title>
-  </programme>
-  <programme start="20240308203900 +0800" stop="20240308213000 +0800" channel="shanxi4">
-    <title lang="zh">惊蛰3</title>
-  </programme>
-  <programme start="20240308213000 +0800" stop="20240308225900 +0800" channel="shanxi4">
-    <title lang="zh">惊蛰4</title>
-  </programme>
-  <programme start="20240308225900 +0800" stop="20240309002000 +0800" channel="shanxi4">
-    <title lang="zh">桃花朵朵开</title>
-  </programme>
-  <programme start="20240309002000 +0800" stop="20240309010000 +0800" channel="shanxi4">
+  <programme start="20240309035000 +0800" stop="20240309052500 +0800" channel="shanxi4">
     <title lang="zh">健康之路</title>
     <desc lang="zh">《健康之路》栏目的宗旨是：满足人民群众强身健体的愿望，满足观众治病防病的要求，从大卫生的观念出发，从实现到2000年人人享有卫生与保健的目标，为观众提供最具权威的而且是最新的医学信息和知识，为提高中华民族的健康素质，为建设社会主义精神文明服务。《健康之路》以开阔的健康视野，更新的卫生理念，倡导科学的生活方式，为观众传递健康，使观众认识健康、了解健康、把握健康、拥有健康。</desc>
     <credits>
@@ -1489,10 +1352,7 @@
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309010000 +0800" stop="20240309014500 +0800" channel="shanxi4">
-    <title lang="zh">热线晚间版</title>
-  </programme>
-  <programme start="20240309014500 +0800" stop="20240309022000 +0800" channel="shanxi4">
+  <programme start="20240309052500 +0800" stop="20240309060800 +0800" channel="shanxi4">
     <title lang="zh">健康之路</title>
     <desc lang="zh">《健康之路》栏目的宗旨是：满足人民群众强身健体的愿望，满足观众治病防病的要求，从大卫生的观念出发，从实现到2000年人人享有卫生与保健的目标，为观众提供最具权威的而且是最新的医学信息和知识，为提高中华民族的健康素质，为建设社会主义精神文明服务。《健康之路》以开阔的健康视野，更新的卫生理念，倡导科学的生活方式，为观众传递健康，使观众认识健康、了解健康、把握健康、拥有健康。</desc>
     <credits>
@@ -1501,22 +1361,236 @@
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309022000 +0800" stop="20240309030500 +0800" channel="shanxi4">
-    <title lang="zh">热线晚间版</title>
+  <programme start="20240309060800 +0800" stop="20240309080000 +0800" channel="shanxi4">
+    <title lang="zh">都市110</title>
+    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308000600 +0800" stop="20240308013800 +0800" channel="shanxi5">
+  <programme start="20240309080000 +0800" stop="20240309092000 +0800" channel="shanxi4">
+    <title lang="zh">代号山豹35</title>
+    <desc lang="zh">1941年，各方势力盘踞赵城，觊觎国宝金藏。我党地下党赵文忠肩负保护金藏的任务。日军前来督战，文忠初恋李晓婉同行，暗恋文忠的娟子心生醋意，土匪姚三合为捕获娟子芳心，卷入抢夺国宝的争斗。日军为找出藏宝图，残暴杀害村民火烧宅院，赵父成为各方角力的关键。文忠利用姚三合，数次打击日军行动，率领八路军县大队解救被困百姓，赵父临死前将藏宝图留给文忠。李晓婉地下党身份浮出水面，与文忠并肩作战并走到一起。日军探知金藏下落，文忠带领治安团起义联合县大队将日军一网打尽，保护了国宝。</desc>
+    <credits>
+      <director>何群</director>
+      <actor>邢佳栋</actor>
+      <actor>屈玥</actor>
+      <actor>薛皓文</actor>
+      <actor>曾淇</actor>
+      <actor>钱波</actor>
+      <actor>高冬平</actor>
+    </credits>
+    <date>2021-09-02</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309092000 +0800" stop="20240309103500 +0800" channel="shanxi4">
+    <title lang="zh">代号山豹36</title>
+    <desc lang="zh">1941年，各方势力盘踞赵城，觊觎国宝金藏。我党地下党赵文忠肩负保护金藏的任务。日军前来督战，文忠初恋李晓婉同行，暗恋文忠的娟子心生醋意，土匪姚三合为捕获娟子芳心，卷入抢夺国宝的争斗。日军为找出藏宝图，残暴杀害村民火烧宅院，赵父成为各方角力的关键。文忠利用姚三合，数次打击日军行动，率领八路军县大队解救被困百姓，赵父临死前将藏宝图留给文忠。李晓婉地下党身份浮出水面，与文忠并肩作战并走到一起。日军探知金藏下落，文忠带领治安团起义联合县大队将日军一网打尽，保护了国宝。</desc>
+    <credits>
+      <director>何群</director>
+      <actor>邢佳栋</actor>
+      <actor>屈玥</actor>
+      <actor>薛皓文</actor>
+      <actor>曾淇</actor>
+      <actor>钱波</actor>
+      <actor>高冬平</actor>
+    </credits>
+    <date>2021-09-02</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309103500 +0800" stop="20240309115500 +0800" channel="shanxi4">
+    <title lang="zh">代号山豹37</title>
+    <desc lang="zh">1941年，各方势力盘踞赵城，觊觎国宝金藏。我党地下党赵文忠肩负保护金藏的任务。日军前来督战，文忠初恋李晓婉同行，暗恋文忠的娟子心生醋意，土匪姚三合为捕获娟子芳心，卷入抢夺国宝的争斗。日军为找出藏宝图，残暴杀害村民火烧宅院，赵父成为各方角力的关键。文忠利用姚三合，数次打击日军行动，率领八路军县大队解救被困百姓，赵父临死前将藏宝图留给文忠。李晓婉地下党身份浮出水面，与文忠并肩作战并走到一起。日军探知金藏下落，文忠带领治安团起义联合县大队将日军一网打尽，保护了国宝。</desc>
+    <credits>
+      <director>何群</director>
+      <actor>邢佳栋</actor>
+      <actor>屈玥</actor>
+      <actor>薛皓文</actor>
+      <actor>曾淇</actor>
+      <actor>钱波</actor>
+      <actor>高冬平</actor>
+    </credits>
+    <date>2021-09-02</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309115500 +0800" stop="20240309125500 +0800" channel="shanxi4">
+    <title lang="zh">都市110</title>
+    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309125500 +0800" stop="20240309131800 +0800" channel="shanxi4">
+    <title lang="zh">小郭跑腿</title>
+    <desc lang="zh">从2008年1月1日起《小郭跑腿》成了一档日播20分钟的情感故事类节目，从开播之日起，《小郭跑腿》就以其特有的故事性和“记者在现场”的调解员身份，吸引了众多观众关注的目光。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309131800 +0800" stop="20240309134500 +0800" channel="shanxi4">
+    <title lang="zh">法在身边</title>
+    <desc lang="zh">《法在身边》栏目是漳州电视台唯一的一档法制类专题节目，由漳州市依法治市办、市委宣传部、漳州电视台联合主办。栏目以讲述法律故事、传播法制规则、提供法律服务、弘扬法治理念为宗旨，真实再现曲折的故事情节、深入分析富有普法意义的法律知识。</desc>
+    <category lang="zh">科教</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309134500 +0800" stop="20240309163500 +0800" channel="shanxi4">
+    <title lang="zh">桃花朵朵开</title>
+    <desc lang="zh">在受到一位迷人吉他手的魅力吸引之后，席维亚决定开始学习佛朗明哥舞。此后，席维亚更因为跳了佛朗明哥舞，渐渐产生自信，进而发光发热。</desc>
+    <credits>
+      <director>吉姆·道尔</director>
+      <actor>杰瑞米·爱德华</actor>
+      <actor>埃利泽·杜·图瓦</actor>
+      <writer>杰瑞米·爱德华</writer>
+      <writer>埃利泽·杜·图瓦</writer>
+    </credits>
+    <date>2006-01-01</date>
+    <category lang="zh">电影</category>
+    <country lang="zh">英国</country>
+  </programme>
+  <programme start="20240309163500 +0800" stop="20240309180500 +0800" channel="shanxi4">
+    <title lang="zh">出关20</title>
+    <desc lang="zh">一群手无寸铁的被俘红军官兵和壮丁被一支声称要出关抗日的川北地方军阀部队荷枪实弹地押往潼关，于是，从“出关”启程那天开始，红军敌工科长刘一手与国军团长丁成义就展开了斗智斗勇的生死较量,最终靠精神和意志战胜、影响和改变了押解自己的敌人，与之携手，共赴国难，出关抗日。</desc>
+    <credits>
+      <director>宋业明</director>
+      <actor>张博</actor>
+      <actor>冯国强</actor>
+      <actor>汪裴</actor>
+      <actor>肖雄</actor>
+      <actor>来喜</actor>
+      <actor>王迅</actor>
+      <writer>张博</writer>
+      <writer>冯国强</writer>
+      <writer>汪裴</writer>
+      <writer>肖雄</writer>
+      <writer>来喜</writer>
+      <writer>王迅</writer>
+    </credits>
+    <date>2015-03-28</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309180500 +0800" stop="20240309185000 +0800" channel="shanxi4">
+    <title lang="zh">出关21</title>
+    <desc lang="zh">一群手无寸铁的被俘红军官兵和壮丁被一支声称要出关抗日的川北地方军阀部队荷枪实弹地押往潼关，于是，从“出关”启程那天开始，红军敌工科长刘一手与国军团长丁成义就展开了斗智斗勇的生死较量,最终靠精神和意志战胜、影响和改变了押解自己的敌人，与之携手，共赴国难，出关抗日。</desc>
+    <credits>
+      <director>宋业明</director>
+      <actor>张博</actor>
+      <actor>冯国强</actor>
+      <actor>汪裴</actor>
+      <actor>肖雄</actor>
+      <actor>来喜</actor>
+      <actor>王迅</actor>
+      <writer>张博</writer>
+      <writer>冯国强</writer>
+      <writer>汪裴</writer>
+      <writer>肖雄</writer>
+      <writer>来喜</writer>
+      <writer>王迅</writer>
+    </credits>
+    <date>2015-03-28</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309185000 +0800" stop="20240309195000 +0800" channel="shanxi4">
+    <title lang="zh">都市110</title>
+    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309195000 +0800" stop="20240309201200 +0800" channel="shanxi4">
+    <title lang="zh">民生大接访</title>
+    <desc lang="zh">《民生大接访》以讲故事的方式纪实拍摄，关注当事各方人物的命运和情感，尤其重视干部下访的选题，真实记录领导干部深入到百姓中去，体察民生疾苦、化解信访难题的全过程，搭起了干群连心桥，也有利于将矛盾化解到最基层。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309201200 +0800" stop="20240309204500 +0800" channel="shanxi4">
+    <title lang="zh">第三调解室</title>
+    <desc lang="zh">第三调解室，说法，说理，说亲情。第三调解室是国内第一档具有法律效力的排解矛盾、化解纠纷的电视节目。节目现场将有人民调解员、律师、心理专家为当事人答疑解惑、梳理思绪，促使各方当事人达成调解。节目当场签订人民调解协议书并加盖人民调解公章。协议具有法律效力，当场生效、给法律赋予亲情的温度，给人心注入柔软的力量。</desc>
+    <credits>
+      <director>刘佳</director>
+    </credits>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309204500 +0800" stop="20240309213500 +0800" channel="shanxi4">
+    <title lang="zh">惊蛰5</title>
+    <desc lang="zh">二十世纪五十年代初、国共两党的三个异姓兄弟——春城市公安局侦察科科长陆恺、潜伏在敌特内部的我党资深情报人员曹创与国民党军统局原沈阳站站长崔圣文，为了民族大义，怀揣起不同的政见与信仰，同仇敌忾，共同追缉日本间谍“麻雀”及其隐瞒了在日军731细菌部队作恶经历的父亲，向他们讨还血债、并为无数抗日烈士复仇。</desc>
+    <credits>
+      <director>马鲁剑</director>
+      <actor>杨烁</actor>
+      <actor>迟嘉</actor>
+      <actor>张译木</actor>
+      <actor>周放</actor>
+      <actor>陈创</actor>
+    </credits>
+    <date>2018-11-06</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309213500 +0800" stop="20240309230000 +0800" channel="shanxi4">
+    <title lang="zh">惊蛰6</title>
+    <desc lang="zh">二十世纪五十年代初、国共两党的三个异姓兄弟——春城市公安局侦察科科长陆恺、潜伏在敌特内部的我党资深情报人员曹创与国民党军统局原沈阳站站长崔圣文，为了民族大义，怀揣起不同的政见与信仰，同仇敌忾，共同追缉日本间谍“麻雀”及其隐瞒了在日军731细菌部队作恶经历的父亲，向他们讨还血债、并为无数抗日烈士复仇。</desc>
+    <credits>
+      <director>马鲁剑</director>
+      <actor>杨烁</actor>
+      <actor>迟嘉</actor>
+      <actor>张译木</actor>
+      <actor>周放</actor>
+      <actor>陈创</actor>
+    </credits>
+    <date>2018-11-06</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309230000 +0800" stop="20240310001500 +0800" channel="shanxi4">
+    <title lang="zh">桃花朵朵开</title>
+    <desc lang="zh">在受到一位迷人吉他手的魅力吸引之后，席维亚决定开始学习佛朗明哥舞。此后，席维亚更因为跳了佛朗明哥舞，渐渐产生自信，进而发光发热。</desc>
+    <credits>
+      <director>吉姆·道尔</director>
+      <actor>杰瑞米·爱德华</actor>
+      <actor>埃利泽·杜·图瓦</actor>
+      <writer>杰瑞米·爱德华</writer>
+      <writer>埃利泽·杜·图瓦</writer>
+    </credits>
+    <date>2006-01-01</date>
+    <category lang="zh">电影</category>
+    <country lang="zh">英国</country>
+  </programme>
+  <programme start="20240310001500 +0800" stop="20240310012000 +0800" channel="shanxi4">
+    <title lang="zh">第三调解室</title>
+    <desc lang="zh">第三调解室，说法，说理，说亲情。第三调解室是国内第一档具有法律效力的排解矛盾、化解纠纷的电视节目。节目现场将有人民调解员、律师、心理专家为当事人答疑解惑、梳理思绪，促使各方当事人达成调解。节目当场签订人民调解协议书并加盖人民调解公章。协议具有法律效力，当场生效、给法律赋予亲情的温度，给人心注入柔软的力量。</desc>
+    <credits>
+      <director>刘佳</director>
+    </credits>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310012000 +0800" stop="20240310020000 +0800" channel="shanxi4">
+    <title lang="zh">都市110</title>
+    <desc lang="zh">再现案件发生情形；跟踪案件侦破全过程；讲述警察的真实故事。《都市110》及时反映最新社会治安动态，关注各类犯罪问题，提供治安防范新方法。记录社会治安的每一个细小的进程，收看精彩的案件，剖析深层次犯罪心理，预防各种社会问题。</desc>
+    <category lang="zh">综合</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310020000 +0800" stop="20240310034500 +0800" channel="shanxi4">
+    <title lang="zh">自然档案</title>
+    <desc lang="zh">《自然档案》百集篇幅讲述了动物的百种超常能力，呈现了千奇百怪的自然世界！</desc>
+    <date>2022-07-05</date>
+    <category lang="zh">科教</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309000600 +0800" stop="20240309013800 +0800" channel="shanxi5">
     <title lang="zh">歌从黄河来</title>
     <desc lang="zh">是山西卫视一档音乐秀节目，歌声跨越近30年的历届中央电视台春节联欢晚会，六路选手各显神通，争夺情歌王。选手不仅来自不同的民族、国度，而且还来自各行各业。</desc>
     <category lang="zh">娱乐</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308013800 +0800" stop="20240308024000 +0800" channel="shanxi5">
+  <programme start="20240309013800 +0800" stop="20240309024000 +0800" channel="shanxi5">
     <title lang="zh">王牌高手</title>
     <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
     <category lang="zh">体育</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308024000 +0800" stop="20240308034500 +0800" channel="shanxi5">
+  <programme start="20240309024000 +0800" stop="20240309034400 +0800" channel="shanxi5">
     <title lang="zh">百年巨匠</title>
     <desc lang="zh">百年巨匠是由央视、中央新影、银谷艺术馆联合摄制的大型人物传记纪录片。呈现了齐白石，徐悲鸿，黄宾虹，张大千等绘画巨匠的传奇人生和非凡艺术历程。</desc>
     <credits>
@@ -1526,243 +1600,260 @@
     <category lang="zh">科教</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308034500 +0800" stop="20240308043700 +0800" channel="shanxi5">
+  <programme start="20240309034400 +0800" stop="20240309043700 +0800" channel="shanxi5">
     <title lang="zh">梨园记忆</title>
   </programme>
-  <programme start="20240308043700 +0800" stop="20240308050700 +0800" channel="shanxi5">
+  <programme start="20240309043700 +0800" stop="20240309050700 +0800" channel="shanxi5">
     <title lang="zh">短秀新生活</title>
     <desc lang="zh">短秀新生活</desc>
     <category lang="zh">综合</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308050700 +0800" stop="20240308060500 +0800" channel="shanxi5">
+  <programme start="20240309050700 +0800" stop="20240309060500 +0800" channel="shanxi5">
     <title lang="zh">百家戏苑</title>
     <desc lang="zh">全新改版之后，《百家戏苑》将继续挖掘传统戏曲艺术，让大伙儿在欣赏戏曲表演的同时提升艺术审美素养，弘扬地方本土文化，进一步增强文化自信。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308060500 +0800" stop="20240308070800 +0800" channel="shanxi5">
-    <title lang="zh">元气朋友圈</title>
-    <desc lang="zh">山西公共频道全新打造的康养类节目《元气朋友圈》即将闪亮登场。节目立足“体育、健康、青春”的定位，风格轻松明快、时尚活泼，以权威的专家讲解、科学的指导示范为大众传播最实用、最科学的健康知识，打造“健康快乐、共同分享”的受众“朋友圈”，推动全民健康意识，普及健康养生知识，推广健身锻炼方法。</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308070800 +0800" stop="20240308082200 +0800" channel="shanxi5">
-    <title lang="zh">王牌高手</title>
-    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
-    <category lang="zh">体育</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308082200 +0800" stop="20240308101400 +0800" channel="shanxi5">
-    <title lang="zh">百家戏苑</title>
-    <desc lang="zh">全新改版之后，《百家戏苑》将继续挖掘传统戏曲艺术，让大伙儿在欣赏戏曲表演的同时提升艺术审美素养，弘扬地方本土文化，进一步增强文化自信。</desc>
-    <category lang="zh">综艺</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308101400 +0800" stop="20240308114000 +0800" channel="shanxi5">
-    <title lang="zh">上午剧场:雪鹰22</title>
-    <desc lang="zh">抗日战争已进入尾声，日军在世界各地的战场上频频失利，日军高层决定发动一场代号为“焦土计划”的生化细菌战，妄图挽回败局，东北抗联的共产党员胡铁荣联合各路民间抗日义士组建了雪鹰之队，摧毁了名为“100所”的日军生化武器研究中心。</desc>
-    <credits>
-      <director>陈冠龙</director>
-      <actor>王强</actor>
-      <actor>金晨</actor>
-      <actor>万弘杰</actor>
-      <actor>赵芮</actor>
-      <actor>何音</actor>
-      <writer>王强</writer>
-      <writer>金晨</writer>
-      <writer>万弘杰</writer>
-      <writer>赵芮</writer>
-      <writer>何音</writer>
-    </credits>
-    <date>2014-12-07</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308114000 +0800" stop="20240308130500 +0800" channel="shanxi5">
-    <title lang="zh">上午剧场:雪鹰23</title>
-    <desc lang="zh">抗日战争已进入尾声，日军在世界各地的战场上频频失利，日军高层决定发动一场代号为“焦土计划”的生化细菌战，妄图挽回败局，东北抗联的共产党员胡铁荣联合各路民间抗日义士组建了雪鹰之队，摧毁了名为“100所”的日军生化武器研究中心。</desc>
-    <credits>
-      <director>陈冠龙</director>
-      <actor>王强</actor>
-      <actor>金晨</actor>
-      <actor>万弘杰</actor>
-      <actor>赵芮</actor>
-      <actor>何音</actor>
-      <writer>王强</writer>
-      <writer>金晨</writer>
-      <writer>万弘杰</writer>
-      <writer>赵芮</writer>
-      <writer>何音</writer>
-    </credits>
-    <date>2014-12-07</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308130500 +0800" stop="20240308134900 +0800" channel="shanxi5">
-    <title lang="zh">王牌高手</title>
-    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
-    <category lang="zh">体育</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308134900 +0800" stop="20240308151600 +0800" channel="shanxi5">
-    <title lang="zh">下午剧场:秋蝉7</title>
-    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
-    <credits>
-      <director>付宁</director>
-      <actor>任嘉伦</actor>
-      <actor>李曼</actor>
-      <actor>刘欢</actor>
-      <actor>何杜娟</actor>
-      <actor>菅纫姿</actor>
-      <actor>李亭哲</actor>
-      <actor>刘学义</actor>
-      <actor>傅方俊</actor>
-      <writer>任嘉伦</writer>
-      <writer>李曼</writer>
-      <writer>刘欢</writer>
-      <writer>何杜娟</writer>
-      <writer>菅纫姿</writer>
-      <writer>李亭哲</writer>
-      <writer>刘学义</writer>
-      <writer>傅方俊</writer>
-    </credits>
-    <date>2020-05-04</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308151600 +0800" stop="20240308164300 +0800" channel="shanxi5">
-    <title lang="zh">下午剧场:秋蝉8</title>
-    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
-    <credits>
-      <director>付宁</director>
-      <actor>任嘉伦</actor>
-      <actor>李曼</actor>
-      <actor>刘欢</actor>
-      <actor>何杜娟</actor>
-      <actor>菅纫姿</actor>
-      <actor>李亭哲</actor>
-      <actor>刘学义</actor>
-      <actor>傅方俊</actor>
-      <writer>任嘉伦</writer>
-      <writer>李曼</writer>
-      <writer>刘欢</writer>
-      <writer>何杜娟</writer>
-      <writer>菅纫姿</writer>
-      <writer>李亭哲</writer>
-      <writer>刘学义</writer>
-      <writer>傅方俊</writer>
-    </credits>
-    <date>2020-05-04</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308164300 +0800" stop="20240308183000 +0800" channel="shanxi5">
-    <title lang="zh">下午剧场:秋蝉9</title>
-    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
-    <credits>
-      <director>付宁</director>
-      <actor>任嘉伦</actor>
-      <actor>李曼</actor>
-      <actor>刘欢</actor>
-      <actor>何杜娟</actor>
-      <actor>菅纫姿</actor>
-      <actor>李亭哲</actor>
-      <actor>刘学义</actor>
-      <actor>傅方俊</actor>
-      <writer>任嘉伦</writer>
-      <writer>李曼</writer>
-      <writer>刘欢</writer>
-      <writer>何杜娟</writer>
-      <writer>菅纫姿</writer>
-      <writer>李亭哲</writer>
-      <writer>刘学义</writer>
-      <writer>傅方俊</writer>
-    </credits>
-    <date>2020-05-04</date>
-    <category lang="zh">电视剧</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308183000 +0800" stop="20240308190500 +0800" channel="shanxi5">
-    <title lang="zh">超级校车</title>
-    <desc lang="zh">《快乐鼎鼎》之《超级校车》是一档趣味竞技知识类节目,节目设计隐形摄像机的拍摄方式，打造“会说话的校车”，通过科学知识、传统文化、道德文明、艺术修养、安全常识、生活百科等等多方面的视频题、图片题、思考题，让校车与孩子之间产生互动，展现孩子们的童言无忌，培养学习兴趣，引领孩子正确的世界观、价值观、人生观。</desc>
-    <category lang="zh">科教</category>
-    <country lang="zh">中国大陆</country>
-  </programme>
-  <programme start="20240308190500 +0800" stop="20240308192000 +0800" channel="shanxi5">
+  <programme start="20240309060500 +0800" stop="20240309070700 +0800" channel="shanxi5">
     <title lang="zh">欢乐送</title>
     <desc lang="zh">《经视欢乐送》是从《经视直播》中剥离出来的,由原来的3－4分钟扩容到7分半钟，从穿插在《经视直播》中播出，改为一个独立的栏目《经视欢乐送》，于每晚17：50播出。响亮地提出了“用快乐打包生活”的定位和口号，在坚持“贴近民生，反映民情”节目宗旨基础之上，增强了主题策划，加强了对社会特殊人群和弱视群体的帮扶力度。对百姓生活的反映更具针对性。用内容打造主持人的亲和力，用亲和力拉近与群众的距离，把党、社会的关心潜移默化地传递给百姓。主持人谈笑走街串巷，为百姓带去欢乐，提供贴心服务。在架起一条观众和社会、群众与政府连通之桥的同时，也成为一道独特的民生风景线。</desc>
     <category lang="zh">综艺</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240308192000 +0800" stop="20240308220000 +0800" channel="shanxi5">
-    <title lang="zh">篮球风云季</title>
-  </programme>
-  <programme start="20240308220000 +0800" stop="20240309002000 +0800" channel="shanxi5">
+  <programme start="20240309070700 +0800" stop="20240309082000 +0800" channel="shanxi5">
     <title lang="zh">王牌高手</title>
     <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
     <category lang="zh">体育</category>
     <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309002000 +0800" stop="20240309010500 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
-    <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
-    </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
+  <programme start="20240309082000 +0800" stop="20240309101200 +0800" channel="shanxi5">
+    <title lang="zh">百家戏苑周末版</title>
   </programme>
-  <programme start="20240309010500 +0800" stop="20240309015000 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
+  <programme start="20240309101200 +0800" stop="20240309113900 +0800" channel="shanxi5">
+    <title lang="zh">上午剧场:雪鹰24</title>
+    <desc lang="zh">抗日战争已进入尾声，日军在世界各地的战场上频频失利，日军高层决定发动一场代号为“焦土计划”的生化细菌战，妄图挽回败局，东北抗联的共产党员胡铁荣联合各路民间抗日义士组建了雪鹰之队，摧毁了名为“100所”的日军生化武器研究中心。</desc>
     <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
+      <director>陈冠龙</director>
+      <actor>王强</actor>
+      <actor>金晨</actor>
+      <actor>万弘杰</actor>
+      <actor>赵芮</actor>
+      <actor>何音</actor>
+      <writer>王强</writer>
+      <writer>金晨</writer>
+      <writer>万弘杰</writer>
+      <writer>赵芮</writer>
+      <writer>何音</writer>
     </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
+    <date>2014-12-07</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309015000 +0800" stop="20240309022500 +0800" channel="shanxi5">
-    <title lang="zh">午夜剧场</title>
-    <desc lang="zh">该片讲述的是一名在客服中心工作的聋哑人“京美”在午夜偶然遇到连环杀人魔“度植”而展开的深夜追击战。</desc>
+  <programme start="20240309113900 +0800" stop="20240309130300 +0800" channel="shanxi5">
+    <title lang="zh">上午剧场:雪鹰25</title>
+    <desc lang="zh">抗日战争已进入尾声，日军在世界各地的战场上频频失利，日军高层决定发动一场代号为“焦土计划”的生化细菌战，妄图挽回败局，东北抗联的共产党员胡铁荣联合各路民间抗日义士组建了雪鹰之队，摧毁了名为“100所”的日军生化武器研究中心。</desc>
     <credits>
-      <director>权吾胜</director>
-      <actor>秦基周</actor>
-      <actor>魏嘏隽</actor>
-      <actor>朴勋</actor>
-      <actor>吉海妍</actor>
-      <writer>秦基周</writer>
-      <writer>魏嘏隽</writer>
-      <writer>朴勋</writer>
-      <writer>吉海妍</writer>
+      <director>陈冠龙</director>
+      <actor>王强</actor>
+      <actor>金晨</actor>
+      <actor>万弘杰</actor>
+      <actor>赵芮</actor>
+      <actor>何音</actor>
+      <writer>王强</writer>
+      <writer>金晨</writer>
+      <writer>万弘杰</writer>
+      <writer>赵芮</writer>
+      <writer>何音</writer>
     </credits>
-    <date>2021-06-30</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">韩国</country>
+    <date>2014-12-07</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
   </programme>
-  <programme start="20240309022500 +0800" stop="20240309030500 +0800" channel="shanxi5">
-    <title lang="zh">深夜剧场</title>
-    <desc lang="zh">保罗是一名恐怖漫画家，他在整理酒保接手的老台球室时，捡到几枚拼图，当他把拼图拼成一个金字塔时，将金字塔中的恶灵释放出来，他的噩梦开始了。</desc>
-    <date>1991-11-10</date>
-    <category lang="zh">电影</category>
-    <country lang="zh">意大利</country>
+  <programme start="20240309130300 +0800" stop="20240309134700 +0800" channel="shanxi5">
+    <title lang="zh">王牌高手</title>
+    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
+    <category lang="zh">体育</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309134700 +0800" stop="20240309151400 +0800" channel="shanxi5">
+    <title lang="zh">下午剧场:秋蝉10</title>
+    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
+    <credits>
+      <director>付宁</director>
+      <actor>任嘉伦</actor>
+      <actor>李曼</actor>
+      <actor>刘欢</actor>
+      <actor>何杜娟</actor>
+      <actor>菅纫姿</actor>
+      <actor>李亭哲</actor>
+      <actor>刘学义</actor>
+      <actor>傅方俊</actor>
+      <writer>任嘉伦</writer>
+      <writer>李曼</writer>
+      <writer>刘欢</writer>
+      <writer>何杜娟</writer>
+      <writer>菅纫姿</writer>
+      <writer>李亭哲</writer>
+      <writer>刘学义</writer>
+      <writer>傅方俊</writer>
+    </credits>
+    <date>2020-05-04</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309151400 +0800" stop="20240309164000 +0800" channel="shanxi5">
+    <title lang="zh">下午剧场:秋蝉11</title>
+    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
+    <credits>
+      <director>付宁</director>
+      <actor>任嘉伦</actor>
+      <actor>李曼</actor>
+      <actor>刘欢</actor>
+      <actor>何杜娟</actor>
+      <actor>菅纫姿</actor>
+      <actor>李亭哲</actor>
+      <actor>刘学义</actor>
+      <actor>傅方俊</actor>
+      <writer>任嘉伦</writer>
+      <writer>李曼</writer>
+      <writer>刘欢</writer>
+      <writer>何杜娟</writer>
+      <writer>菅纫姿</writer>
+      <writer>李亭哲</writer>
+      <writer>刘学义</writer>
+      <writer>傅方俊</writer>
+    </credits>
+    <date>2020-05-04</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309164000 +0800" stop="20240309182300 +0800" channel="shanxi5">
+    <title lang="zh">下午剧场:秋蝉12</title>
+    <desc lang="zh">叶冲是一名有共产主义信仰的爱国青年，在新京时就以秋蝉为代号，为我党提供日军重要情报。叶冲来到香港与宫本苍野和佐藤大藏、清泉上野等老牌日本间谍斗智斗勇，同时又被我党同志姜俊涛和军统薛萍等人怀疑身份，他陷入重围一路披荆斩棘，一次次地化解了身边的危机。在好友的帮助下，击败了宫本苍野和清泉上野，在姜俊涛和梁雪梅的婚礼上摆脱了日本女魔头清泉纯子的追杀，为抗战胜利作着不懈努力。</desc>
+    <credits>
+      <director>付宁</director>
+      <actor>任嘉伦</actor>
+      <actor>李曼</actor>
+      <actor>刘欢</actor>
+      <actor>何杜娟</actor>
+      <actor>菅纫姿</actor>
+      <actor>李亭哲</actor>
+      <actor>刘学义</actor>
+      <actor>傅方俊</actor>
+      <writer>任嘉伦</writer>
+      <writer>李曼</writer>
+      <writer>刘欢</writer>
+      <writer>何杜娟</writer>
+      <writer>菅纫姿</writer>
+      <writer>李亭哲</writer>
+      <writer>刘学义</writer>
+      <writer>傅方俊</writer>
+    </credits>
+    <date>2020-05-04</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309182300 +0800" stop="20240309190700 +0800" channel="shanxi5">
+    <title lang="zh">未来少年强</title>
+    <desc lang="zh">《未来少年强》是山西广播电视台一档大型少儿才艺综艺类节目,对孩子提升自信、挖掘潜力、开拓视野意义非凡。节目致力于为省内外的少年儿童提供展示风采、培养自信、快乐成长的舞台，在童年时光里留下最精彩的一刻。</desc>
+    <category lang="zh">少儿</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309190700 +0800" stop="20240309191700 +0800" channel="shanxi5">
+    <title lang="zh">欢乐送</title>
+    <desc lang="zh">《经视欢乐送》是从《经视直播》中剥离出来的,由原来的3－4分钟扩容到7分半钟，从穿插在《经视直播》中播出，改为一个独立的栏目《经视欢乐送》，于每晚17：50播出。响亮地提出了“用快乐打包生活”的定位和口号，在坚持“贴近民生，反映民情”节目宗旨基础之上，增强了主题策划，加强了对社会特殊人群和弱视群体的帮扶力度。对百姓生活的反映更具针对性。用内容打造主持人的亲和力，用亲和力拉近与群众的距离，把党、社会的关心潜移默化地传递给百姓。主持人谈笑走街串巷，为百姓带去欢乐，提供贴心服务。在架起一条观众和社会、群众与政府连通之桥的同时，也成为一道独特的民生风景线。</desc>
+    <category lang="zh">综艺</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309191700 +0800" stop="20240309202900 +0800" channel="shanxi5">
+    <title lang="zh">百家戏苑周末版</title>
+  </programme>
+  <programme start="20240309202900 +0800" stop="20240309211600 +0800" channel="shanxi5">
+    <title lang="zh">黄金剧场:冷风暴3</title>
+    <desc lang="zh">爱国志士沈木风受命铲除大汉奸易安之。策划“冷风暴”计划的邵一夫是一名与组织失去联系的老地下党，藏身于租界华人联盟，为铲除大汉奸易安之，用生命的代价，帮助沈木风顺利打入敌特工总部。让沈木风想不到的是，特工总部的二号人物杨云轩并不是汉奸，而是一名潜伏的地下党。杨云轩身负重任，他要求沈木风暂不要除掉易安之，而是潜伏在易安之身边，为党做更多的工作。沈木风在地下党人杨云轩、欧阳倩等人的引领下，多次完成上级交给的任务。最后，加入革命队伍的沈木风为了营救自己的同志，点燃炸药与敌人同归于尽。</desc>
+    <credits>
+      <director>张东东</director>
+      <actor>朱雨辰</actor>
+      <actor>李子雄</actor>
+      <actor>任晗</actor>
+      <actor>丁勇岱</actor>
+      <actor>李泰</actor>
+      <actor>瑛子</actor>
+      <writer>朱雨辰</writer>
+      <writer>李子雄</writer>
+      <writer>任晗</writer>
+      <writer>丁勇岱</writer>
+      <writer>李泰</writer>
+      <writer>瑛子</writer>
+    </credits>
+    <date>2012-05-26</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309211600 +0800" stop="20240309220000 +0800" channel="shanxi5">
+    <title lang="zh">黄金剧场:冷风暴4</title>
+    <desc lang="zh">爱国志士沈木风受命铲除大汉奸易安之。策划“冷风暴”计划的邵一夫是一名与组织失去联系的老地下党，藏身于租界华人联盟，为铲除大汉奸易安之，用生命的代价，帮助沈木风顺利打入敌特工总部。让沈木风想不到的是，特工总部的二号人物杨云轩并不是汉奸，而是一名潜伏的地下党。杨云轩身负重任，他要求沈木风暂不要除掉易安之，而是潜伏在易安之身边，为党做更多的工作。沈木风在地下党人杨云轩、欧阳倩等人的引领下，多次完成上级交给的任务。最后，加入革命队伍的沈木风为了营救自己的同志，点燃炸药与敌人同归于尽。</desc>
+    <credits>
+      <director>张东东</director>
+      <actor>朱雨辰</actor>
+      <actor>李子雄</actor>
+      <actor>任晗</actor>
+      <actor>丁勇岱</actor>
+      <actor>李泰</actor>
+      <actor>瑛子</actor>
+      <writer>朱雨辰</writer>
+      <writer>李子雄</writer>
+      <writer>任晗</writer>
+      <writer>丁勇岱</writer>
+      <writer>李泰</writer>
+      <writer>瑛子</writer>
+    </credits>
+    <date>2012-05-26</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240309220000 +0800" stop="20240310000600 +0800" channel="shanxi5">
+    <title lang="zh">王牌高手</title>
+    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
+    <category lang="zh">体育</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310000600 +0800" stop="20240310010800 +0800" channel="shanxi5">
+    <title lang="zh">门当户对</title>
+    <desc lang="zh">《门当户对》以海峡两岸两个家庭的儿女相恋、父辈之间的矛盾为故事线索，通过喜剧的方式，真实展现了两岸同根同祖又不尽相同的文化风俗，最终表现了血浓于水的亲情。故事的发生地选择在了天津和台湾的台南府城，主人公是两位父亲。一个是高明饰演的退休大学教授方建军，—个有文化的倔老头；一个是马如龙饰演的台南富商陈成功，一个火爆脾气的企业家。他们都有一双儿女，视若珍宝。凌潇肃饰演的方磊是天津一所酒楼的创意总监，曾之乔饰演的陈丽君是喜爱台南小吃的娇娇女，两个孩子分别被父母的相亲攻势和严密保护搞得焦头烂额。决定反抗的丽君出走天津，意外与方磊谱下了一段不打不相识的恋曲。</desc>
+    <credits>
+      <director>张孝正</director>
+      <actor>凌潇肃</actor>
+      <actor>曾之乔</actor>
+      <actor>高明</actor>
+      <actor>马如龙</actor>
+      <actor>钱芳</actor>
+    </credits>
+    <date>2012-04-11</date>
+    <category lang="zh">电视剧</category>
+    <country lang="zh">中国大陆,中国台湾</country>
+  </programme>
+  <programme start="20240310010800 +0800" stop="20240310015100 +0800" channel="shanxi5">
+    <title lang="zh">歌从黄河来</title>
+    <desc lang="zh">是山西卫视一档音乐秀节目，歌声跨越近30年的历届中央电视台春节联欢晚会，六路选手各显神通，争夺情歌王。选手不仅来自不同的民族、国度，而且还来自各行各业。</desc>
+    <category lang="zh">娱乐</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310015100 +0800" stop="20240310025300 +0800" channel="shanxi5">
+    <title lang="zh">王牌高手</title>
+    <desc lang="zh">《王牌高手》是山西公共频道强力打造的一档集大众娱乐方式、紧张刺激的擂台PK、尖锐犀利的点评碰撞、丰厚的奖金奖品于一体的棋牌竞技节目！</desc>
+    <category lang="zh">体育</category>
+    <country lang="zh">中国大陆</country>
+  </programme>
+  <programme start="20240310025300 +0800" stop="20240310035400 +0800" channel="shanxi5">
+    <title lang="zh">百年巨匠</title>
+    <desc lang="zh">百年巨匠是由央视、中央新影、银谷艺术馆联合摄制的大型人物传记纪录片。呈现了齐白石，徐悲鸿，黄宾虹，张大千等绘画巨匠的传奇人生和非凡艺术历程。</desc>
+    <credits>
+      <director>赵伟东</director>
+    </credits>
+    <date>2012-11-23</date>
+    <category lang="zh">科教</category>
+    <country lang="zh">中国大陆</country>
   </programme>
 </tv>
